@@ -1,0 +1,16 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://eibanez.github.io/waukee-covid19/buildings.json",
+    "format": {"parse": {"start_utc": "utc:'%Y-%m-%d %H:%M:%S'", "end_utc": "utc:'%Y-%m-%d %H:%M:%S'"}}
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "start_utc", "type": "temporal", "title": null},
+    "x2": {"field": "end_utc", "type": "temporal", "title": null},
+    "y": {"field": "location", "type": "ordinal", "title": null},
+    "color": {"value": "firebrick"}
+  },
+  "width": "container",
+  "height": 200
+}

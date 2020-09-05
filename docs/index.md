@@ -12,6 +12,9 @@ This website monitors the COVID-19 stats published by the Waukee School District
 <div id="data-isolating"></div>
 
 ## Buildings with known positive cases.
+<div id="buildings"></div>
+
+
 <script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.13.1"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
@@ -21,4 +24,5 @@ This website monitors the COVID-19 stats published by the Waukee School District
   load_plot("data-students");
   load_plot("data-staff");
   load_plot("data-isolating");
+  load_plot("buildings");
 </script>
