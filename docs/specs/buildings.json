@@ -4,7 +4,7 @@
     "url": "https://eibanez.github.io/waukee-covid19/buildings.json",
     "format": {"parse": {"start_utc": "utc:'%Y-%m-%d %H:%M:%S'", "end_utc": "utc:'%Y-%m-%d %H:%M:%S'"}}
   },
-  "mark": "line",
+  "mark": "bar",
   "encoding": {
     "x": {"field": "start_utc", "type": "temporal", "title": null},
     "x2": {"field": "end_utc", "type": "temporal", "title": null},
