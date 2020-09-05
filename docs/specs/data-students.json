@@ -10,6 +10,6 @@
     "y": {"field": "positive_students", "type": "quantitative", "title": "Student positives"},
     "color": {"value": "firebrick"}
   },
-  "width": "container",
+  "width": 500
   "height": 200
 }
