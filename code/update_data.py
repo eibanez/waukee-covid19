@@ -8,7 +8,8 @@ files.sort()
 
 def extract_data(fname):
     soup = BeautifulSoup(open(fname, 'r'), 'html.parser')
-    print(soup.prettify())
+    table = soup.find('table')
+    print(table)
 
 for f in files[:1]:
     extract_data(os.path.join('pages', f))
