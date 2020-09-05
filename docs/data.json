@@ -1,18 +1,18 @@
 [
   {
-    "time_utc": "2020-09-04 03:12:20",
+    "time_utc": "2020-09-04 03:12:20+00:00",
     "positive_students": 5,
     "positive_staff": 3,
     "number_isolated": 166
   },
   {
-    "time_utc": "2020-09-04 15:00:34",
+    "time_utc": "2020-09-04 15:00:34+00:00",
     "positive_students": 6,
     "positive_staff": 3,
     "number_isolated": 197
   },
   {
-    "time_utc": "2020-09-04 21:00:52",
+    "time_utc": "2020-09-04 21:00:52+00:00",
     "positive_students": 9,
     "positive_staff": 3,
     "number_isolated": 239
