@@ -7,7 +7,7 @@
   "mark": "line",
   "encoding": {
     "x": {"field": "time_utc", "type": "temporal", "title": null},
-    "y": {"field": "positive_staff", "type": "quantitative", "title": "Staff positives"},
+    "y": {"field": "positive_staff", "type": "ordinal", "title": "Staff positives"},
     "color": {"value": "firebrick"}
   },
   "width": 600,
