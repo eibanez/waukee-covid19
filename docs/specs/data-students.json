@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://eibanez.github.io/waukee-covid19/data.json",
+    "format": {"parse": {"time_utc": "utc:'%Y-%m-%d %H:%M:%S'"}}
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "time_utc", "type": "temporal", "title": null},
+    "y": {"field": "positive_students", "type": "quantitative", "title": "Student positives"},
+    "color": {"value": "firebrick"}
+  },
+  "width": "container",
+  "height": 200
+}
