@@ -15,9 +15,16 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.6
+    - name: Install dependencies
+      run: |
+        pip install beautifulsoup4
+        pip install html5lib
     - name: Query data
       run: |
         python code/save_page.py
+    - name: Update json files
+      run: |
+        python code/update_data.py
     - name: Commit results to this repository
       continue-on-error: true
       run: |
