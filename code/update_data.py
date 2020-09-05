@@ -13,6 +13,7 @@ def extract_data(fname):
     table = soup.find('table')
     
     locations = []
+    print(table.prettify())
     
     for i, sect in enumerate(table.find_all('td')):
         if i == 0:
