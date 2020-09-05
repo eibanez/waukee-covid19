@@ -7,6 +7,8 @@ files = os.listdir('pages')
 files.sort()
 
 def extract_data(fname):
+    print(fname)
+    
     soup = BeautifulSoup(open(fname, 'r'), 'html.parser')
     table = soup.find('table')
     
@@ -20,9 +22,9 @@ def extract_data(fname):
         elif i == 4:
             isolated = int(sect.string)
         elif i == 6:
+            print(sect.prettify())
             locations = [l for l in sect.find_all('strong')]
     
-    print(fname)
     print(students, staff, isolated, locations)
 
 for f in files:
