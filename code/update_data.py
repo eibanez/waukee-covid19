@@ -10,7 +10,7 @@ def extract_data(fname):
     soup = BeautifulSoup(open(fname, 'r'), 'html.parser')
     table = soup.find('table')
     
-    print(table.prettify())
+    locations = []
     
     for i, sect in enumerate(table.find_all('td')):
         if i == 0:
@@ -22,6 +22,7 @@ def extract_data(fname):
         elif i == 6:
             locations = [l for l in sect.find_all('strong')]
     
+    print(fname)
     print(students, staff, isolated, locations)
 
 for f in files:
