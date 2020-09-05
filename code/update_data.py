@@ -1,7 +1,6 @@
 import datetime
 import json
 import os
-import pytz
 
 from bs4 import BeautifulSoup
 
@@ -13,7 +12,7 @@ def extract_data(fname):
     soup = BeautifulSoup(open(os.path.join('pages', fname), 'rb'), 'html5lib')
     table = soup.find('table')
     
-    time = datetime.datetime.strptime(fname, 'page_%Y-%m-%d_%H-%M-%S.html').replace(tzinfo=pytz.utc)
+    time = datetime.datetime.strptime(fname, 'page_%Y-%m-%d_%H-%M-%S.html')
     
     locations = []
     
