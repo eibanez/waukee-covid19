@@ -18,9 +18,9 @@ def extract_data(fname):
         elif i == 4:
             isolated = int(sect.string)
         elif i == 6:
-            locations = int(sect.string)
+            locations = [l for l in sect.find_all('strong')]
     
-    print(students, staff, isolated)
+    print(students, staff, isolated, locations)
 
-for f in files[:1]:
+for f in files:
     extract_data(os.path.join('pages', f))
