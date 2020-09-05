@@ -10,6 +10,6 @@
     "y": {"field": "positive_staff", "type": "quantitative", "title": "Staff positives"},
     "color": {"value": "firebrick"}
   },
-  "width": 500
+  "width": 500,
   "height": 200
 }

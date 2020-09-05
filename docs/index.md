@@ -8,7 +8,7 @@ This website monitors the COVID-19 stats published by the Waukee School District
 ## Staff members testing positive
 <div id="data-staff"></div>
 
-## Staff and/or students isolating/quarantining
+## Staff/students isolating
 <div id="data-isolating"></div>
 
 ## Buildings with known positive cases.
