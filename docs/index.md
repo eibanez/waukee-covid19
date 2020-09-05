@@ -12,10 +12,5 @@ This website monitors the COVID-19 stats published by the Waukee School District
 <script src="plots.js"></script>
 
 <script type="text/javascript">
-  load_plot("compare-distance-line-total");
-  load_plot("compare-distance-bar-year");
-  load_plot("compare-distance-line-year");
-  load_plot("compare-time-pace");
-  load_plot("compare-time-distance");
-  load_plot("compare-distance-bar-month");
+  load_plot("data-students");
 </script>
