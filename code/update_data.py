@@ -11,4 +11,4 @@ def extract_data(fname):
     print(soup.prettify())
 
 for f in files[:1]:
-    extract_data(f)
+    extract_data(os.path.join('pages', f))
