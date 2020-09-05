@@ -10,6 +10,6 @@
     "y": {"field": "number_isolated", "type": "quantitative", "title": "Total isolating"},
     "color": {"value": "firebrick"}
   },
-  "width": 600,
+  "width": 500,
   "height": 200
 }
