@@ -10,6 +10,8 @@ def extract_data(fname):
     soup = BeautifulSoup(open(fname, 'r'), 'html.parser')
     table = soup.find('table')
     
+    print(table.prettify())
+    
     for i, sect in enumerate(table.find_all('td')):
         if i == 0:
             students = int(sect.string)
