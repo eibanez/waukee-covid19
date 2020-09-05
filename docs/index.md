@@ -11,7 +11,7 @@ This website monitors the COVID-19 stats published by the Waukee School District
 ## Staff/students isolating
 <div id="data-isolating"></div>
 
-## Buildings with known positive cases.
+## Buildings with known positive cases
 <div id="buildings"></div>
 
 

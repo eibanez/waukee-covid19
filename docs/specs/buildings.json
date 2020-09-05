@@ -11,6 +11,6 @@
     "y": {"field": "location", "type": "ordinal", "title": null},
     "color": {"value": "firebrick"}
   },
-  "width": "container",
+  "width": 500,
   "height": 200
 }
