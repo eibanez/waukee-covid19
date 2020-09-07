@@ -19,7 +19,8 @@ with open(last_file, 'rb') as f:
 with urllib.request.urlopen('https://waukeeschools.org/rtl/covid-19-information-for-families/') as w:
     new_file_content = w.read()
     
-    if last_file_content == new_file_content:
+    # Check if most of the page is the same
+    if last_file_content[:-40] == new_file_content[:-40]:
         print('SKIP: Contents are the same')
     else:
         print('Saving new file...')
