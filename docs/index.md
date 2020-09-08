@@ -2,17 +2,34 @@
 
 This website monitors the COVID-19 stats published by the Waukee School District in their [official dashboard](https://waukeeschools.org/rtl/covid-19-information-for-families/).
 
+
 ## Students testing positive
+
+Student(s) currently testing positive (total students 9,217 in-person)
+
 <div id="data-students"></div>
 
+
 ## Staff members testing positive
+
+Staff members currently testing positive (total staff 1,800)
+
 <div id="data-staff"></div>
 
+
 ## Staff/students isolating
+
+Staff and/or students currently isolating/quarantining by Dallas County Public Health
+
 <div id="data-isolating"></div>
 
+
 ## Buildings with known positive cases
+
+Current buildings or programs with known positive cases.
+
 <div id="buildings"></div>
+
 
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
