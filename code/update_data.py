@@ -39,6 +39,14 @@ def extract_data(fname):
     
     return time, students, staff, isolated, locations
 
+def format_data(time, students, staff, isolated):
+    return {
+            'time_utc': str(time),
+            'positive_students': students,
+            'positive_staff': staff,
+            'number_isolated': isolated,
+        }
+
 data = []
 prev_data = None
 curr_locs = {}
@@ -47,17 +55,15 @@ data_buildings = []
 build_start = {}
 build_end = {}
 
+# Add one data point from before I started tracking
+data.append(format_data("2020-09-03 03:12:20", 2, 3, 97))
+
 for f in files:
     time, students, staff, isolated, locations = extract_data(f)
     curr_data = (students, staff, isolated)
     
     if curr_data != prev_data:
-        new_data = {
-            'time_utc': str(time),
-            'positive_students': students,
-            'positive_staff': staff,
-            'number_isolated': isolated,
-        }
+        new_data = format_data(time, students, staff, isolated)
         data.append(new_data)
         prev_data = curr_data
     
