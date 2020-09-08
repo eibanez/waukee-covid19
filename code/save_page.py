@@ -19,8 +19,11 @@ with open(last_file, 'rb') as f:
 with urllib.request.urlopen('https://waukeeschools.org/rtl/covid-19-information-for-families/') as w:
     new_file_content = w.read()
     
+    def no_cache_id(txt):
+        return txt.split('<!-- This website is like a Rocket')[0]
+    
     # Check if most of the page is the same
-    if last_file_content[:-40] == new_file_content[:-40]:
+    if no_cache_id(last_file_content) == no_cache_id(new_file_content):
         print('SKIP: Contents are the same')
     else:
         print('Saving new file...')
