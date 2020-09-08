@@ -8,7 +8,7 @@
   "encoding": {
     "x": {"field": "time_utc", "type": "temporal", "title": null},
     "y": {"field": "positive_students", "type": "quantitative", "title": "Student positives"},
-    "color": {"value": "firebrick"}
+    "color": {"value": "#552988"}
   },
   "width": 500,
   "height": 200

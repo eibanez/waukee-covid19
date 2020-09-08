@@ -9,7 +9,7 @@
     "x": {"field": "start_utc", "type": "temporal", "title": null},
     "x2": {"field": "end_utc", "type": "temporal", "title": null},
     "y": {"field": "location", "type": "nominal", "title": null},
-    "color": {"value": "firebrick"}
+    "color": {"value": "#552988"}
   },
   "width": 400
 }
