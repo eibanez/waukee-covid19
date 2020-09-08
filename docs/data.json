@@ -1,5 +1,11 @@
 [
   {
+    "time_utc": "2020-09-03 03:12:20",
+    "positive_students": 2,
+    "positive_staff": 3,
+    "number_isolated": 97
+  },
+  {
     "time_utc": "2020-09-04 03:12:20",
     "positive_students": 5,
     "positive_staff": 3,
