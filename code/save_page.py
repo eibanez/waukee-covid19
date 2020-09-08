@@ -21,7 +21,7 @@ with urllib.request.urlopen('https://waukeeschools.org/rtl/covid-19-information-
     
     # Check if most of the page is the same
     if no_cache_id(last_file_content) == no_cache_id(new_file_content):
-        print('SKIP: Contents are the same')
+        print('SKIP: No change to page content')
     else:
         print('Saving new file...')
         with open(fname, 'wb') as f:
