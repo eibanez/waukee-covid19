@@ -20,7 +20,7 @@ with urllib.request.urlopen('https://waukeeschools.org/rtl/covid-19-information-
     new_file_content = w.read()
     
     def no_cache_id(txt):
-        return txt.split('<!-- This website is like a Rocket')[0]
+        return txt.split(b'<!-- This website is like a Rocket')[0]
     
     # Check if most of the page is the same
     if no_cache_id(last_file_content) == no_cache_id(new_file_content):
