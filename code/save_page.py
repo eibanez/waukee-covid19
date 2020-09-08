@@ -9,10 +9,7 @@ fname = os.path.join('pages', 'page_' + fname + '.html')
 print('New file:', fname)
 
 # Read the body of the last file
-files = os.listdir('pages')
-files.sort()
-last_file = os.path.join('pages', files[-1])
-print('Last file:', last_file)
+last_file = 'last-page-saved.html'
 with open(last_file, 'rb') as f:
     last_file_content = f.read()
 
@@ -29,5 +26,5 @@ with urllib.request.urlopen('https://waukeeschools.org/rtl/covid-19-information-
         print('Saving new file...')
         with open(fname, 'wb') as f:
            f.write(new_file_content)
-        with open('last-page-saved.html', 'wb') as f:
+        with open(last_file, 'wb') as f:
            f.write(new_file_content)
