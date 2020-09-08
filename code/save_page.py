@@ -29,3 +29,5 @@ with urllib.request.urlopen('https://waukeeschools.org/rtl/covid-19-information-
         print('Saving new file...')
         with open(fname, 'wb') as f:
            f.write(new_file_content)
+        with open('last-page-saved.html', 'wb') as f:
+           f.write(new_file_content)
