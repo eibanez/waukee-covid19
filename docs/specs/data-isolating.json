@@ -4,7 +4,11 @@
     "url": "https://eibanez.github.io/waukee-covid19/data.json",
     "format": {"parse": {"time_utc": "utc:'%Y-%m-%d %H:%M:%S'"}}
   },
-  "mark": "line",
+  "mark": {
+    "type": "line",
+    "interpolate": "step",
+    "point": "transparent"
+  },
   "encoding": {
     "x": {"field": "time_utc", "type": "temporal", "title": null},
     "y": {"field": "number_isolated", "type": "quantitative", "title": "Total isolating"},
