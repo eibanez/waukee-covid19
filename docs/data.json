@@ -106,5 +106,11 @@
     "positive_students": 4,
     "positive_staff": 5,
     "number_isolated": 179
+  },
+  {
+    "time_utc": "2020-09-17 16:16:03",
+    "positive_students": 7,
+    "positive_staff": 5,
+    "number_isolated": 101
   }
 ]
