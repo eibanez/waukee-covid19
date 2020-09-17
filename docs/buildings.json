@@ -40,23 +40,33 @@
     "end_utc": "2020-09-16 17:53:50"
   },
   {
-    "location": "Waukee High School",
-    "start_utc": "2020-09-04 21:00:52",
-    "end_utc": "2020-09-17 16:16:03"
-  },
-  {
-    "location": "Radiant Elementary",
-    "start_utc": "2020-09-14 18:27:50",
-    "end_utc": "2020-09-17 16:16:03"
-  },
-  {
     "location": "Maple Grove",
     "start_utc": "2020-09-17 16:16:03",
     "end_utc": "2020-09-17 16:16:03"
   },
   {
+    "location": "Waukee High School",
+    "start_utc": "2020-09-04 21:00:52",
+    "end_utc": "2020-09-17 22:14:50"
+  },
+  {
+    "location": "Radiant Elementary",
+    "start_utc": "2020-09-14 18:27:50",
+    "end_utc": "2020-09-17 22:14:50"
+  },
+  {
     "location": "South Middle School",
     "start_utc": "2020-09-17 16:16:03",
-    "end_utc": "2020-09-17 16:16:03"
+    "end_utc": "2020-09-17 22:14:50"
+  },
+  {
+    "location": "Maple Grove Elementary",
+    "start_utc": "2020-09-17 22:14:50",
+    "end_utc": "2020-09-17 22:14:50"
+  },
+  {
+    "location": "Prairieview School",
+    "start_utc": "2020-09-17 22:14:50",
+    "end_utc": "2020-09-17 22:14:50"
   }
 ]
