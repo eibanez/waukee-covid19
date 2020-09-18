@@ -8,6 +8,11 @@ from bs4 import BeautifulSoup
 files = os.listdir('pages')
 files.sort()
 
+# Use consistent names, when there are multiple versions
+clean_names = {
+    'Maple Grove': 'Maple Grove Elementary',
+}
+
 def extract_data(fname):
     soup = BeautifulSoup(open(os.path.join('pages', fname), 'rb'), 'html5lib')
     table = soup.find('table')
@@ -26,6 +31,7 @@ def extract_data(fname):
         elif i == 6:
             for l in sect.find_all('strong'):
                 loc = l.string
+                loc = clean_names.get(loc, loc)
                 if loc:
                     locations.append(loc)
                     continue
@@ -34,6 +40,7 @@ def extract_data(fname):
                         loc = ll.string
                         if loc:
                             loc = loc.replace('\n', '')
+                            loc = clean_names.get(loc, loc)
                             if len(loc):
                                 locations.append(loc)
     
@@ -47,10 +54,12 @@ def format_data(time, students, staff, isolated):
             'number_isolated': isolated,
         }
 
+# Used to keep track of cases
 data = []
 prev_data = None
 curr_locs = {}
 
+# Used to keep track of buildings
 data_buildings = []
 build_start = {}
 build_end = {}
