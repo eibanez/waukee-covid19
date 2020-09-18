@@ -25,7 +25,10 @@ def extract_data(fname):
         if i == 0:
             students = int(sect.string)
         elif i == 2:
-            staff = int(sect.string)
+            try:
+                staff = int(sect.string)
+            except ValueError:
+                staff = 0
         elif i == 4:
             isolated = int(sect.string)
         elif i == 6:
