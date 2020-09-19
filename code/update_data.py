@@ -23,12 +23,15 @@ def extract_data(fname):
     
     for i, sect in enumerate(table.find_all('td')):
         if i == 0:
-            students = int(sect.string)
+            try:
+                students = int(sect.string)
+            except ValueError:
+                students = 2.5
         elif i == 2:
             try:
                 staff = int(sect.string)
             except ValueError:
-                staff = 0
+                staff = 2.5
         elif i == 4:
             isolated = int(sect.string)
         elif i == 6:
