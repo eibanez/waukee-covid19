@@ -12,7 +12,8 @@ Student(s) currently testing positive (total students 9,217 in-person)
 
 ## Staff members testing positive
 
-Staff members currently testing positive (total staff 1,800)
+Staff members currently testing positive (total staff 1,800). Beginning September 16, the District does not
+report the exact number of cases if they are between 1 and 5. The graph below codes those days as 2.5.
 
 <div id="data-staff"></div>
 
