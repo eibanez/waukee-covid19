@@ -42,41 +42,46 @@
   {
     "location": "Waukee High School",
     "start_utc": "2020-09-04 21:00:52",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
   },
   {
     "location": "Radiant Elementary",
     "start_utc": "2020-09-14 18:27:50",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
   },
   {
     "location": "Maple Grove Elementary",
     "start_utc": "2020-09-17 16:16:03",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
   },
   {
     "location": "South Middle School",
     "start_utc": "2020-09-17 16:16:03",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
   },
   {
     "location": "Prairieview School",
     "start_utc": "2020-09-17 22:14:50",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
   },
   {
     "location": "Waukee Middle School",
     "start_utc": "2020-09-18 14:16:12",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
   },
   {
     "location": "Shuler Elementary",
     "start_utc": "2020-09-20 13:53:47",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
   },
   {
     "location": "Timberline School",
     "start_utc": "2020-09-21 18:44:45",
-    "end_utc": "2020-09-21 18:44:45"
+    "end_utc": "2020-09-22 15:16:32"
+  },
+  {
+    "location": "Walnut Hills Elementary",
+    "start_utc": "2020-09-22 15:16:32",
+    "end_utc": "2020-09-22 15:16:32"
   }
 ]
