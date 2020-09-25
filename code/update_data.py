@@ -23,8 +23,9 @@ def extract_data(fname):
     
     for i, sect in enumerate(table.find_all('td')):
         if i == 0:
+            students_string = sect.string.replace(' (in-person)', '')
             try:
-                students = int(sect.string)
+                students = int(students_string)
             except ValueError:
                 students = 2.5
         elif i == 2:
