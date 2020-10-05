@@ -220,5 +220,11 @@
     "positive_students": 13,
     "positive_staff": 2.5,
     "number_isolated": 67
+  },
+  {
+    "time_utc": "2020-10-05 15:17:09",
+    "positive_students": 6,
+    "positive_staff": 2.5,
+    "number_isolated": 62
   }
 ]
