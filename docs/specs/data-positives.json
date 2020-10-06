@@ -16,7 +16,7 @@
   },
   "encoding": {
     "x": {"field": "time_utc", "type": "temporal", "title": null},
-    "y": {"field": "value", "type": "quantitative", "title": "Student positives"},
+    "y": {"field": "value", "type": "quantitative", "title": "Current positives"},
     "color": {"field": "key", "title": null, "type": "nominal", "scale": {"range": ["#717b00", "#552988"]}}
   },
   "width": 500,
