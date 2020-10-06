@@ -249,6 +249,7 @@
     "positive_students": 6,
     "positive_staff": 2.5,
     "number_isolated": 60,
-    "staff_raw": "**Case(s) present in the district (between 1-5)"
+    "staff_raw": "**Case(s) present in the district (between 1-5)",
+    "monitoring": 121
   }
 ]

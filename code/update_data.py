@@ -20,6 +20,7 @@ def extract_data(fname):
     time = datetime.datetime.strptime(fname, 'page_%Y-%m-%d_%H-%M-%S.html')
     
     locations = []
+    monitoring = None
     
     def read_locations(sect):
         for l in sect.find_all('strong'):
@@ -59,12 +60,17 @@ def extract_data(fname):
             if i == 6:
                 read_locations(sect)
         else:
-            if i == 8:
+            if i == 6:
+                try:
+                    monitoring = int(sect.string)
+                except ValueError:
+                    print(sect.string)
+            elif i == 8:
                 read_locations(sect)
     
-    return time, students, staff, isolated, locations, students_raw, staff_raw
+    return time, students, staff, isolated, locations, students_raw, staff_raw, monitoring
 
-def format_data(time, students, staff, isolated, students_raw = None, staff_raw = None):
+def format_data(time, students, staff, isolated, students_raw = None, staff_raw = None, monitoring = None):
     out = {
             'time_utc': str(time),
             'positive_students': students,
@@ -77,6 +83,9 @@ def format_data(time, students, staff, isolated, students_raw = None, staff_raw 
     
     if staff_raw:
         out['staff_raw'] = staff_raw
+    
+    if monitoring:
+        out['monitoring'] = monitoring
     
     return out
 
@@ -94,11 +103,11 @@ build_end = {}
 data.append(format_data("2020-09-03 03:12:20", 2, 3, 97))
 
 for f in files:
-    time, students, staff, isolated, locations, students_raw, staff_raw = extract_data(f)
+    time, students, staff, isolated, locations, students_raw, staff_raw, monitoring = extract_data(f)
     curr_data = (students, staff, isolated)
     
     if curr_data != prev_data:
-        new_data = format_data(time, students, staff, isolated, students_raw = students_raw, staff_raw = staff_raw)
+        new_data = format_data(time, students, staff, isolated, students_raw=students_raw, staff_raw=staff_raw, monitoring=monitoring)
         data.append(new_data)
         prev_data = curr_data
     
