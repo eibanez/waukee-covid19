@@ -21,6 +21,22 @@ def extract_data(fname):
     
     locations = []
     
+    def read_locations(sect):
+        for l in sect.find_all('strong'):
+            loc = l.string
+            loc = clean_names.get(loc, loc)
+            if loc:
+                locations.append(loc)
+                continue
+            else:
+                for ll in l.children:
+                    loc = ll.string
+                    if loc:
+                        loc = loc.replace('\n', '')
+                        loc = clean_names.get(loc, loc)
+                        if len(loc):
+                            locations.append(loc)
+    
     for i, sect in enumerate(table.find_all('td')):
         if i == 0:
             students_string = sect.string.replace(' (in-person)', '')
@@ -35,21 +51,12 @@ def extract_data(fname):
                 staff = 2.5
         elif i == 4:
             isolated = int(sect.string)
-        elif i == 6:
-            for l in sect.find_all('strong'):
-                loc = l.string
-                loc = clean_names.get(loc, loc)
-                if loc:
-                    locations.append(loc)
-                    continue
-                else:
-                    for ll in l.children:
-                        loc = ll.string
-                        if loc:
-                            loc = loc.replace('\n', '')
-                            loc = clean_names.get(loc, loc)
-                            if len(loc):
-                                locations.append(loc)
+        elif time < datetime.datetime(2020, 10, 2, 20, 0, 0):
+            if i == 6:
+                read_locations(sect)
+        else:
+            if i == 8:
+                read_locations(sect)
     
     return time, students, staff, isolated, locations
 
