@@ -135,102 +135,120 @@
     "time_utc": "2020-09-18 22:13:34",
     "positive_students": 7,
     "positive_staff": 2.5,
-    "number_isolated": 98
+    "number_isolated": 98,
+    "staff_raw": "Case(s) present in buildings"
   },
   {
     "time_utc": "2020-09-20 13:53:47",
     "positive_students": 8,
     "positive_staff": 2.5,
-    "number_isolated": 104
+    "number_isolated": 104,
+    "staff_raw": "Case(s) present in buildings"
   },
   {
     "time_utc": "2020-09-21 15:35:25",
     "positive_students": 2.5,
     "positive_staff": 2.5,
-    "number_isolated": 90
+    "number_isolated": 90,
+    "students_raw": "Case(s) present in buildings (between 1-5)",
+    "staff_raw": "Case(s) present in buildings (between 1-5)"
   },
   {
     "time_utc": "2020-09-21 18:44:45",
     "positive_students": 7,
     "positive_staff": 2.5,
-    "number_isolated": 112
+    "number_isolated": 112,
+    "staff_raw": "**Case(s) present in buildings (between 1-5)"
   },
   {
     "time_utc": "2020-09-22 15:16:32",
     "positive_students": 7,
     "positive_staff": 2.5,
-    "number_isolated": 107
+    "number_isolated": 107,
+    "staff_raw": "**Case(s) present in buildings (between 1-5)"
   },
   {
     "time_utc": "2020-09-23 15:53:50",
     "positive_students": 7,
     "positive_staff": 2.5,
-    "number_isolated": 100
+    "number_isolated": 100,
+    "staff_raw": "**Case(s) present in buildings (between 1-5)"
   },
   {
     "time_utc": "2020-09-23 17:24:00",
     "positive_students": 8,
     "positive_staff": 2.5,
-    "number_isolated": 114
+    "number_isolated": 114,
+    "staff_raw": "**Case(s) present in buildings (between 1-5)"
   },
   {
     "time_utc": "2020-09-23 22:15:39",
     "positive_students": 10,
     "positive_staff": 2.5,
-    "number_isolated": 151
+    "number_isolated": 151,
+    "staff_raw": "**Case(s) present in buildings (between 1-5)"
   },
   {
     "time_utc": "2020-09-25 16:17:08",
     "positive_students": 10,
     "positive_staff": 2.5,
-    "number_isolated": 150
+    "number_isolated": 150,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-09-28 15:16:26",
     "positive_students": 6,
     "positive_staff": 2.5,
-    "number_isolated": 150
+    "number_isolated": 150,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-09-29 14:54:04",
     "positive_students": 7,
     "positive_staff": 2.5,
-    "number_isolated": 171
+    "number_isolated": 171,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-09-30 16:55:13",
     "positive_students": 9,
     "positive_staff": 2.5,
-    "number_isolated": 62
+    "number_isolated": 62,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-10-01 15:31:45",
     "positive_students": 8,
     "positive_staff": 2.5,
-    "number_isolated": 52
+    "number_isolated": 52,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-10-02 15:16:20",
     "positive_students": 10,
     "positive_staff": 2.5,
-    "number_isolated": 59
+    "number_isolated": 59,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-10-02 20:45:33",
     "positive_students": 13,
     "positive_staff": 2.5,
-    "number_isolated": 67
+    "number_isolated": 67,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-10-05 15:17:09",
     "positive_students": 6,
     "positive_staff": 2.5,
-    "number_isolated": 62
+    "number_isolated": 62,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
     "time_utc": "2020-10-06 16:24:18",
     "positive_students": 6,
     "positive_staff": 2.5,
-    "number_isolated": 60
+    "number_isolated": 60,
+    "staff_raw": "**Case(s) present in the district (between 1-5)"
   }
 ]
