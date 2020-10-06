@@ -64,7 +64,7 @@ def extract_data(fname):
                 try:
                     monitoring = int(sect.string)
                 except ValueError:
-                    print(sect.string)
+                    pass
             elif i == 8:
                 read_locations(sect)
     
@@ -104,7 +104,7 @@ data.append(format_data("2020-09-03 03:12:20", 2, 3, 97))
 
 for f in files:
     time, students, staff, isolated, locations, students_raw, staff_raw, monitoring = extract_data(f)
-    curr_data = (students, staff, isolated)
+    curr_data = (students, staff, isolated, monitoring)
     
     if curr_data != prev_data:
         new_data = format_data(time, students, staff, isolated, students_raw=students_raw, staff_raw=staff_raw, monitoring=monitoring)

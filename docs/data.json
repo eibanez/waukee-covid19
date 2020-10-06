@@ -245,6 +245,14 @@
     "staff_raw": "**Case(s) present in the district (between 1-5)"
   },
   {
+    "time_utc": "2020-10-05 19:15:35",
+    "positive_students": 6,
+    "positive_staff": 2.5,
+    "number_isolated": 62,
+    "staff_raw": "**Case(s) present in the district (between 1-5)",
+    "monitoring": 112
+  },
+  {
     "time_utc": "2020-10-06 16:24:18",
     "positive_students": 6,
     "positive_staff": 2.5,
