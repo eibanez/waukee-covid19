@@ -34,8 +34,7 @@ Current buildings or programs with known positive cases.
 <script src="plots.js"></script>
 
 <script type="text/javascript">
-  load_plot("data-students");
-  load_plot("data-staff");
-  load_plot("data-isolating");
+  load_plot("data-positives");
+  load_plot("data-out");
   load_plot("buildings");
 </script>
