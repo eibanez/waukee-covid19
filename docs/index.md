@@ -12,11 +12,12 @@ those days.
 <div id="data-positives"></div>
 
 
-## Staff/students isolating
+## Staff/students isolating and being monitored
 
-Staff and/or students currently isolating/quarantining by Dallas County Public Health.
+Staff and/or students currently isolating/quarantining by Dallas County Public Health. Beginning October 5, the District
+started reporting the amount of students being monitored, but still in school.
 
-<div id="data-isolating"></div>
+<div id="data-out"></div>
 
 
 ## Buildings with known positive cases

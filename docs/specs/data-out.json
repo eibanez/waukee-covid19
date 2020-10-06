@@ -1,0 +1,24 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://eibanez.github.io/waukee-covid19/data.json",
+    "format": {"parse": {"time_utc": "utc:'%Y-%m-%d %H:%M:%S'"}}
+  },
+  "transform": [
+    {"calculate": "datum.number_isolated", "as": "Isolating"},
+    {"calculate": "datum.monitoring", "as": "Monitoring"},
+    {"fold": ["Isolating", "Monitoring"]}
+    ],
+  "mark": {
+    "type": "line",
+    "interpolate": "step",
+    "point": "transparent"
+  },
+  "encoding": {
+    "x": {"field": "time_utc", "type": "temporal", "title": null},
+    "y": {"field": "value", "type": "quantitative", "title": "Total isolating and monitored"},
+    "color": {"field": "key", "title": null, "type": "nominal", "scale": {"range": ["#552988", "#717b00"]}}
+  },
+  "width": 500,
+  "height": 200
+}
