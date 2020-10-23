@@ -107,26 +107,31 @@
   {
     "location": "Waukee High School",
     "start_utc": "2020-09-04 21:00:52",
-    "end_utc": "2020-10-23 15:33:56"
+    "end_utc": "2020-10-23 18:58:07"
   },
   {
     "location": "Eason Elementary",
     "start_utc": "2020-10-14 16:29:22",
-    "end_utc": "2020-10-23 15:33:56"
+    "end_utc": "2020-10-23 18:58:07"
   },
   {
     "location": "Grant Ragan Elementary",
     "start_utc": "2020-10-16 16:22:30",
-    "end_utc": "2020-10-23 15:33:56"
+    "end_utc": "2020-10-23 18:58:07"
   },
   {
     "location": "Waukee Middle School",
     "start_utc": "2020-10-16 16:22:30",
-    "end_utc": "2020-10-23 15:33:56"
+    "end_utc": "2020-10-23 18:58:07"
   },
   {
     "location": "Woodland Hills Elementary",
     "start_utc": "2020-10-20 15:34:04",
-    "end_utc": "2020-10-23 15:33:56"
+    "end_utc": "2020-10-23 18:58:07"
+  },
+  {
+    "location": "Maple Grove Elementary",
+    "start_utc": "2020-10-23 18:58:07",
+    "end_utc": "2020-10-23 18:58:07"
   }
 ]
