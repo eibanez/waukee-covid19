@@ -127,36 +127,41 @@
   {
     "location": "Waukee High School",
     "start_utc": "2020-09-04 21:00:52",
-    "end_utc": "2020-10-28 17:55:34"
+    "end_utc": "2020-10-28 18:21:54"
   },
   {
     "location": "Eason Elementary",
     "start_utc": "2020-10-14 16:29:22",
-    "end_utc": "2020-10-28 17:55:34"
+    "end_utc": "2020-10-28 18:21:54"
   },
   {
     "location": "Waukee Middle School",
     "start_utc": "2020-10-26 20:20:06",
-    "end_utc": "2020-10-28 17:55:34"
+    "end_utc": "2020-10-28 18:21:54"
   },
   {
     "location": "Maple Grove Elementary",
     "start_utc": "2020-10-27 16:41:46",
-    "end_utc": "2020-10-28 17:55:34"
+    "end_utc": "2020-10-28 18:21:54"
   },
   {
     "location": "Prairieview School",
     "start_utc": "2020-10-27 18:20:24",
-    "end_utc": "2020-10-28 17:55:34"
+    "end_utc": "2020-10-28 18:21:54"
   },
   {
     "location": "Shuler Elementary",
     "start_utc": "2020-10-27 21:32:50",
-    "end_utc": "2020-10-28 17:55:34"
+    "end_utc": "2020-10-28 18:21:54"
   },
   {
     "location": "Waukee Innovation and Learning Center",
     "start_utc": "2020-10-28 17:55:34",
-    "end_utc": "2020-10-28 17:55:34"
+    "end_utc": "2020-10-28 18:21:54"
+  },
+  {
+    "location": "Childcare",
+    "start_utc": "2020-10-28 18:21:54",
+    "end_utc": "2020-10-28 18:21:54"
   }
 ]
