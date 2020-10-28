@@ -407,5 +407,12 @@
     "number_isolated": 71,
     "staff_raw": "**Cases present in the district (between 1-5)",
     "monitoring": 79
+  },
+  {
+    "time_utc": "2020-10-28 18:41:59",
+    "positive_students": 8,
+    "positive_staff": 6,
+    "number_isolated": 71,
+    "monitoring": 79
   }
 ]
