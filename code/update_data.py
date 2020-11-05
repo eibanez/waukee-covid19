@@ -11,6 +11,7 @@ files.sort()
 # Use consistent names, when there are multiple versions
 clean_names = {
     'Maple Grove': 'Maple Grove Elementary',
+    'Waukee Innovation and Learning Center': 'Waukee ILC',
 }
 
 def extract_data(fname):
