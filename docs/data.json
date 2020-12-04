@@ -658,5 +658,11 @@
     "positive_students": 44,
     "positive_staff": 14,
     "number_isolated": 85
+  },
+  {
+    "time_utc": "2020-12-04 14:53:26",
+    "positive_students": 44,
+    "positive_staff": 18,
+    "number_isolated": 85
   }
 ]
