@@ -690,5 +690,12 @@
     "positive_staff": 15,
     "number_isolated": 75,
     "monitoring": 1
+  },
+  {
+    "time_utc": "2020-12-09 18:03:26",
+    "positive_students": 40,
+    "positive_staff": 14,
+    "number_isolated": 76,
+    "monitoring": 1
   }
 ]
