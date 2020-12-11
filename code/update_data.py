@@ -11,6 +11,7 @@ files.sort()
 # Use consistent names, when there are multiple versions
 clean_names = {
     'Maple Grove': 'Maple Grove Elementary',
+    'Grant Ragan': 'Grant Ragan Elementary',
     'Waukee Innovation and Learning Center': 'Waukee ILC',
 }
 
