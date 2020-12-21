@@ -760,5 +760,13 @@
     "positive_staff": 9,
     "number_isolated": 121,
     "monitoring": 44
+  },
+  {
+    "time_utc": "2020-12-21 18:39:38",
+    "positive_students": 18,
+    "positive_staff": 2.5,
+    "number_isolated": 113,
+    "staff_raw": "(Cases present in our district between 1-5)",
+    "monitoring": 53
   }
 ]
