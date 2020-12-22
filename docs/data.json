@@ -768,5 +768,13 @@
     "number_isolated": 113,
     "staff_raw": "(Cases present in our district between 1-5)",
     "monitoring": 53
+  },
+  {
+    "time_utc": "2020-12-22 17:52:02",
+    "positive_students": 19,
+    "positive_staff": 2.5,
+    "number_isolated": 136,
+    "staff_raw": "(Cases present in our district between 1-5)",
+    "monitoring": 71
   }
 ]
