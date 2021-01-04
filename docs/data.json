@@ -776,5 +776,12 @@
     "number_isolated": 136,
     "staff_raw": "(Cases present in our district between 1-5)",
     "monitoring": 71
+  },
+  {
+    "time_utc": "2021-01-04 20:05:05",
+    "positive_students": 24,
+    "positive_staff": 9,
+    "number_isolated": 98,
+    "monitoring": 71
   }
 ]
