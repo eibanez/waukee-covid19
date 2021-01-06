@@ -39,6 +39,16 @@ def extract_data(fname):
                         loc = clean_names.get(loc, loc)
                         if len(loc):
                             locations.append(loc)
+        
+        # Newer cases fail
+        if len(locations) == 0:
+            for l in sect.children:
+                loc = l.string
+                if loc:
+                    loc = loc.replace('\n', '')
+                    loc = clean_names.get(loc, loc)
+                    if len(loc):
+                        locations.append(loc)
     
     for i, sect in enumerate(table.find_all('td')):
         if i == 0:
