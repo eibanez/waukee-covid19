@@ -25,7 +25,7 @@ def extract_data(fname):
     monitoring = None
     
     def read_locations(sect):
-        for l in sect.find_all('strong'):
+        for l in sect.find_all(['strong', 'p']):
             loc = l.string
             loc = clean_names.get(loc, loc)
             if loc:
