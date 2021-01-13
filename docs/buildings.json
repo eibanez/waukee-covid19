@@ -267,61 +267,66 @@
   {
     "location": "Waukee High School",
     "start_utc": "2020-09-04 21:00:52",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Waukee Middle School",
     "start_utc": "2020-12-02 18:15:39",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "South Middle School",
     "start_utc": "2020-12-11 18:54:18",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Brookview Elementary",
     "start_utc": "2021-01-04 20:05:05",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Eason Elementary",
     "start_utc": "2021-01-04 20:05:05",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Maple Grove Elementary",
     "start_utc": "2021-01-04 20:05:05",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Timberline School",
     "start_utc": "2021-01-04 20:05:05",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Grant Ragan Elementary",
     "start_utc": "2021-01-07 18:20:17",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Waukee Elementary",
     "start_utc": "2021-01-08 19:41:42",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Prairieview School",
     "start_utc": "2021-01-11 19:55:01",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Radiant Elementary",
     "start_utc": "2021-01-11 19:55:01",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
   },
   {
     "location": "Walnut Hills Elementary",
     "start_utc": "2021-01-11 19:55:01",
-    "end_utc": "2021-01-12 19:18:16"
+    "end_utc": "2021-01-13 15:58:56"
+  },
+  {
+    "location": "Shuler Elementary",
+    "start_utc": "2021-01-13 15:58:56",
+    "end_utc": "2021-01-13 15:58:56"
   }
 ]
