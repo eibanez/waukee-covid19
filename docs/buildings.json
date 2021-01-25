@@ -280,43 +280,8 @@
     "end_utc": "2021-01-19 18:01:26"
   },
   {
-    "location": "Waukee High School",
-    "start_utc": "2020-09-04 21:00:52",
-    "end_utc": "2021-01-25 17:51:20"
-  },
-  {
-    "location": "Waukee Middle School",
-    "start_utc": "2020-12-02 18:15:39",
-    "end_utc": "2021-01-25 17:51:20"
-  },
-  {
     "location": "South Middle School",
     "start_utc": "2020-12-11 18:54:18",
-    "end_utc": "2021-01-25 17:51:20"
-  },
-  {
-    "location": "Eason Elementary",
-    "start_utc": "2021-01-04 20:05:05",
-    "end_utc": "2021-01-25 17:51:20"
-  },
-  {
-    "location": "Maple Grove Elementary",
-    "start_utc": "2021-01-04 20:05:05",
-    "end_utc": "2021-01-25 17:51:20"
-  },
-  {
-    "location": "Timberline School",
-    "start_utc": "2021-01-04 20:05:05",
-    "end_utc": "2021-01-25 17:51:20"
-  },
-  {
-    "location": "Waukee Elementary",
-    "start_utc": "2021-01-08 19:41:42",
-    "end_utc": "2021-01-25 17:51:20"
-  },
-  {
-    "location": "Prairieview School",
-    "start_utc": "2021-01-11 19:55:01",
     "end_utc": "2021-01-25 17:51:20"
   },
   {
@@ -330,13 +295,53 @@
     "end_utc": "2021-01-25 17:51:20"
   },
   {
+    "location": "Waukee High School",
+    "start_utc": "2020-09-04 21:00:52",
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
+    "location": "Waukee Middle School",
+    "start_utc": "2020-12-02 18:15:39",
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
+    "location": "Eason Elementary",
+    "start_utc": "2021-01-04 20:05:05",
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
+    "location": "Maple Grove Elementary",
+    "start_utc": "2021-01-04 20:05:05",
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
+    "location": "Timberline School",
+    "start_utc": "2021-01-04 20:05:05",
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
+    "location": "Waukee Elementary",
+    "start_utc": "2021-01-08 19:41:42",
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
+    "location": "Prairieview School",
+    "start_utc": "2021-01-11 19:55:01",
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
     "location": "Woodland Hills Elementary",
     "start_utc": "2021-01-19 18:01:26",
-    "end_utc": "2021-01-25 17:51:20"
+    "end_utc": "2021-01-25 18:54:21"
   },
   {
     "location": "Brookview Elementary",
     "start_utc": "2021-01-20 18:32:50",
-    "end_utc": "2021-01-25 17:51:20"
+    "end_utc": "2021-01-25 18:54:21"
+  },
+  {
+    "location": "Shuler Elementary",
+    "start_utc": "2021-01-25 18:54:21",
+    "end_utc": "2021-01-25 18:54:21"
   }
 ]
