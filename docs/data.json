@@ -907,5 +907,13 @@
     "number_isolated": 92,
     "staff_raw": "(cases present between 1-5)",
     "monitoring": 214
+  },
+  {
+    "time_utc": "2021-01-28 18:08:28",
+    "positive_students": 28,
+    "positive_staff": 2.5,
+    "number_isolated": 100,
+    "staff_raw": "(cases present between 1-5)",
+    "monitoring": 260
   }
 ]
