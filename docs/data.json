@@ -1042,5 +1042,12 @@
     "positive_staff": 6,
     "number_isolated": 128,
     "monitoring": 249
+  },
+  {
+    "time_utc": "2021-02-16 19:17:31",
+    "positive_students": 32,
+    "positive_staff": 8,
+    "number_isolated": 127,
+    "monitoring": 224
   }
 ]
