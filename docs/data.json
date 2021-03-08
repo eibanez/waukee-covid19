@@ -1158,5 +1158,13 @@
     "number_isolated": 80,
     "staff_raw": "(cases between 1-5)",
     "monitoring": 248
+  },
+  {
+    "time_utc": "2021-03-08 19:19:53",
+    "positive_students": 19,
+    "positive_staff": 2.5,
+    "number_isolated": 65,
+    "staff_raw": "(cases between 1-5)",
+    "monitoring": 276
   }
 ]
