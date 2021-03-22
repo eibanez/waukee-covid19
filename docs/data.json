@@ -1201,5 +1201,13 @@
     "positive_students": 16,
     "positive_staff": 0,
     "number_isolated": 16
+  },
+  {
+    "time_utc": "2021-03-22 18:36:30",
+    "positive_students": 17,
+    "positive_staff": 2.5,
+    "number_isolated": 32,
+    "staff_raw": "(1-5 cases present)",
+    "monitoring": 23
   }
 ]
