@@ -1217,5 +1217,13 @@
     "number_isolated": 37,
     "staff_raw": "(1-5 cases present)",
     "monitoring": 26
+  },
+  {
+    "time_utc": "2021-03-24 18:17:06",
+    "positive_students": 19,
+    "positive_staff": 2.5,
+    "number_isolated": 45,
+    "staff_raw": "(1-5 cases present)",
+    "monitoring": 45
   }
 ]
