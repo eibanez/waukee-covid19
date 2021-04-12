@@ -1310,5 +1310,12 @@
     "number_isolated": 33,
     "staff_raw": "(between 1-5 cases present)",
     "monitoring": 105
+  },
+  {
+    "time_utc": "2021-04-12 18:18:09",
+    "positive_students": 7,
+    "positive_staff": 0,
+    "number_isolated": 24,
+    "monitoring": 106
   }
 ]
