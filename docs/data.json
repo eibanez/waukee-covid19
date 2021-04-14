@@ -1324,5 +1324,12 @@
     "positive_staff": 0,
     "number_isolated": 25,
     "monitoring": 114
+  },
+  {
+    "time_utc": "2021-04-14 17:41:58",
+    "positive_students": 9,
+    "positive_staff": 0,
+    "number_isolated": 27,
+    "monitoring": 115
   }
 ]
