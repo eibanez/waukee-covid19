@@ -485,22 +485,7 @@
     "end_utc": "2021-04-19 17:48:35"
   },
   {
-    "location": "Waukee High School",
-    "start_utc": "2021-02-01 19:26:30",
-    "end_utc": "2021-04-23 01:20:58"
-  },
-  {
-    "location": "Prairieview School",
-    "start_utc": "2021-03-04 18:27:29",
-    "end_utc": "2021-04-23 01:20:58"
-  },
-  {
     "location": "Eason Elementary",
-    "start_utc": "2021-04-14 17:41:58",
-    "end_utc": "2021-04-23 01:20:58"
-  },
-  {
-    "location": "Timberline School",
     "start_utc": "2021-04-14 17:41:58",
     "end_utc": "2021-04-23 01:20:58"
   },
@@ -510,18 +495,33 @@
     "end_utc": "2021-04-23 01:20:58"
   },
   {
+    "location": "Waukee High School",
+    "start_utc": "2021-02-01 19:26:30",
+    "end_utc": "2021-04-23 18:16:47"
+  },
+  {
+    "location": "Prairieview School",
+    "start_utc": "2021-03-04 18:27:29",
+    "end_utc": "2021-04-23 18:16:47"
+  },
+  {
+    "location": "Timberline School",
+    "start_utc": "2021-04-14 17:41:58",
+    "end_utc": "2021-04-23 18:16:47"
+  },
+  {
     "location": "Brookview Elementary",
     "start_utc": "2021-04-15 17:51:09",
-    "end_utc": "2021-04-23 01:20:58"
+    "end_utc": "2021-04-23 18:16:47"
   },
   {
     "location": "South Middle School",
     "start_utc": "2021-04-20 17:50:15",
-    "end_utc": "2021-04-23 01:20:58"
+    "end_utc": "2021-04-23 18:16:47"
   },
   {
     "location": "Radiant Elementary",
     "start_utc": "2021-04-21 17:29:02",
-    "end_utc": "2021-04-23 01:20:58"
+    "end_utc": "2021-04-23 18:16:47"
   }
 ]
