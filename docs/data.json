@@ -1434,5 +1434,13 @@
     "number_isolated": 35,
     "staff_raw": "(1-5 cases present in the district)",
     "monitoring": 115
+  },
+  {
+    "time_utc": "2021-05-03 17:31:50",
+    "positive_students": 4,
+    "positive_staff": 2.5,
+    "number_isolated": 34,
+    "staff_raw": "(1-5 cases present in the district)",
+    "monitoring": 76
   }
 ]
