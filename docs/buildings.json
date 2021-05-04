@@ -527,11 +527,16 @@
   {
     "location": "Timberline School",
     "start_utc": "2021-04-29 18:05:56",
-    "end_utc": "2021-05-04 13:34:11"
+    "end_utc": "2021-05-04 17:35:28"
   },
   {
     "location": "Waukee Elementary",
     "start_utc": "2021-05-03 17:31:50",
-    "end_utc": "2021-05-04 13:34:11"
+    "end_utc": "2021-05-04 17:35:28"
+  },
+  {
+    "location": "Grant Ragan Elementary",
+    "start_utc": "2021-05-04 17:35:28",
+    "end_utc": "2021-05-04 17:35:28"
   }
 ]
