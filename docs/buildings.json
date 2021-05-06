@@ -527,26 +527,46 @@
   {
     "location": "Timberline School",
     "start_utc": "2021-04-29 18:05:56",
-    "end_utc": "2021-05-05 17:21:01"
+    "end_utc": "2021-05-06 18:43:03"
   },
   {
     "location": "Waukee Elementary",
     "start_utc": "2021-05-03 17:31:50",
-    "end_utc": "2021-05-05 17:21:01"
+    "end_utc": "2021-05-06 18:43:03"
   },
   {
     "location": "Grant Ragan Elementary",
     "start_utc": "2021-05-04 17:35:28",
-    "end_utc": "2021-05-05 17:21:01"
+    "end_utc": "2021-05-06 18:43:03"
   },
   {
     "location": "Brookview Elementary",
     "start_utc": "2021-05-05 17:21:01",
-    "end_utc": "2021-05-05 17:21:01"
+    "end_utc": "2021-05-06 18:43:03"
   },
   {
     "location": "Maple Grove Elementary",
     "start_utc": "2021-05-05 17:21:01",
-    "end_utc": "2021-05-05 17:21:01"
+    "end_utc": "2021-05-06 18:43:03"
+  },
+  {
+    "location": "Prairieview School",
+    "start_utc": "2021-05-06 18:43:03",
+    "end_utc": "2021-05-06 18:43:03"
+  },
+  {
+    "location": "Shuler Elementary",
+    "start_utc": "2021-05-06 18:43:03",
+    "end_utc": "2021-05-06 18:43:03"
+  },
+  {
+    "location": "Waukee Middle School",
+    "start_utc": "2021-05-06 18:43:03",
+    "end_utc": "2021-05-06 18:43:03"
+  },
+  {
+    "location": "Woodland Hills Elementary",
+    "start_utc": "2021-05-06 18:43:03",
+    "end_utc": "2021-05-06 18:43:03"
   }
 ]
