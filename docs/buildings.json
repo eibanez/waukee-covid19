@@ -550,38 +550,43 @@
     "end_utc": "2021-05-07 20:25:22"
   },
   {
-    "location": "Timberline School",
-    "start_utc": "2021-04-29 18:05:56",
-    "end_utc": "2021-05-10 18:52:47"
-  },
-  {
-    "location": "Maple Grove Elementary",
-    "start_utc": "2021-05-05 17:21:01",
-    "end_utc": "2021-05-10 18:52:47"
-  },
-  {
-    "location": "Prairieview School",
-    "start_utc": "2021-05-06 18:43:03",
-    "end_utc": "2021-05-10 18:52:47"
-  },
-  {
-    "location": "Shuler Elementary",
-    "start_utc": "2021-05-06 18:43:03",
-    "end_utc": "2021-05-10 18:52:47"
-  },
-  {
-    "location": "Waukee Middle School",
-    "start_utc": "2021-05-06 18:43:03",
-    "end_utc": "2021-05-10 18:52:47"
-  },
-  {
     "location": "Grant Ragan Elementary",
     "start_utc": "2021-05-10 18:52:47",
     "end_utc": "2021-05-10 18:52:47"
   },
   {
+    "location": "Timberline School",
+    "start_utc": "2021-04-29 18:05:56",
+    "end_utc": "2021-05-11 18:08:34"
+  },
+  {
+    "location": "Maple Grove Elementary",
+    "start_utc": "2021-05-05 17:21:01",
+    "end_utc": "2021-05-11 18:08:34"
+  },
+  {
+    "location": "Prairieview School",
+    "start_utc": "2021-05-06 18:43:03",
+    "end_utc": "2021-05-11 18:08:34"
+  },
+  {
+    "location": "Shuler Elementary",
+    "start_utc": "2021-05-06 18:43:03",
+    "end_utc": "2021-05-11 18:08:34"
+  },
+  {
+    "location": "Waukee Middle School",
+    "start_utc": "2021-05-06 18:43:03",
+    "end_utc": "2021-05-11 18:08:34"
+  },
+  {
     "location": "Woodland Hills Elementary",
     "start_utc": "2021-05-10 18:52:47",
-    "end_utc": "2021-05-10 18:52:47"
+    "end_utc": "2021-05-11 18:08:34"
+  },
+  {
+    "location": "Priaireview School",
+    "start_utc": "2021-05-11 18:08:34",
+    "end_utc": "2021-05-11 18:08:34"
   }
 ]
