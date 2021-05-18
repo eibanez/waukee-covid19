@@ -13,6 +13,7 @@ clean_names = {
     'Maple Grove': 'Maple Grove Elementary',
     'Grant Ragan': 'Grant Ragan Elementary',
     'Waukee Innovation and Learning Center': 'Waukee ILC',
+    'Priaireview School': 'Prairieview School'
 }
 
 def extract_data(fname):
