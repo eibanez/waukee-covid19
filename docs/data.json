@@ -1560,5 +1560,14 @@
     "students_raw": "(Between 1-5 cases present in the district)",
     "staff_raw": "(Between 1-5 cases present in the district)",
     "monitoring": 84
+  },
+  {
+    "time_utc": "2021-05-20 17:34:37",
+    "positive_students": 2.5,
+    "positive_staff": 2.5,
+    "number_isolated": 15,
+    "students_raw": "(Between 1-5 cases present in the district)",
+    "staff_raw": "(Between 1-5 cases present in the district)",
+    "monitoring": 52
   }
 ]
