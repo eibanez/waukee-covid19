@@ -70,7 +70,7 @@ def extract_data(fname):
         elif i == 4:
             try:
                 isolated = int(sect.string)
-            except ValueError:
+            except (ValueError, TypeError):
                 isolated = 0
         elif time < datetime.datetime(2020, 10, 2, 20, 0, 0):
             if i == 6:
