@@ -23,6 +23,7 @@ jobs:
       run: |
         python code/save_page.py
     - name: Update json files
+      continue-on-error: true
       run: |
         python code/update_data.py
     - name: Commit results to this repository
