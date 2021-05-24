@@ -68,7 +68,10 @@ def extract_data(fname):
                 staff = 2.5
                 staff_raw = sect.string
         elif i == 4:
-            isolated = int(sect.string)
+            try:
+                isolated = int(sect.string)
+            except ValueError:
+                isolated = 0
         elif time < datetime.datetime(2020, 10, 2, 20, 0, 0):
             if i == 6:
                 read_locations(sect)
