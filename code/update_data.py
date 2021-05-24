@@ -79,7 +79,7 @@ def extract_data(fname):
             if i == 6:
                 try:
                     monitoring = int(sect.string)
-                except ValueError:
+                except (ValueError, TypeError):
                     pass
             elif i == 8:
                 read_locations(sect)
