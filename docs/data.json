@@ -1577,5 +1577,12 @@
     "number_isolated": 0,
     "students_raw": "(Between 1-5 cases present in the district)",
     "staff_raw": "(Between 1-5 cases present in the district)"
+  },
+  {
+    "time_utc": "2021-06-02 18:41:48",
+    "positive_students": 2.5,
+    "positive_staff": 0,
+    "number_isolated": 0,
+    "students_raw": "(Between 1-5 cases present in the district)"
   }
 ]
