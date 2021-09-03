@@ -10,4 +10,4 @@ The repository is organized as follows:
    and update the datasets
  * The folder `pages` includes all past versions of the School District dashboard page
  * The folder `docs` includes all the data to produce the page with the graphs
- * The folder `save2019` includes version of the data and pages for the 2019-2020 school year
+ * The folder `save2020` includes version of the data and pages for the 2020-2021 school year
