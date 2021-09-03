@@ -16,7 +16,7 @@ The dashboard is updated weekly on Friday, as new cases are confirmed with Dalla
 The dashboard is to provide current positive cases per building (either `0`, `1 to 5` or the actual number if `6` and above).
 Numbers between 1 and 5 are shown with a value of 2.5.
 
-<div id="data-building21"></div>
+<div id="data-buildings2021"></div>
 
 
 
@@ -26,5 +26,5 @@ Numbers between 1 and 5 are shown with a value of 2.5.
 <script src="plots.js"></script>
 
 <script type="text/javascript">
-  load_plot("data-building21");
+  load_plot("data-buildings2021");
 </script>
