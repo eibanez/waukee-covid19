@@ -51,5 +51,5 @@ for fname in files[2:]:
             building = None
             cases = None
 
-with open(os.path.join('docs', 'data2020.json'), 'w') as f:
+with open(os.path.join('docs', 'data2021.json'), 'w') as f:
     f.write(json.dumps(data, indent=2))
