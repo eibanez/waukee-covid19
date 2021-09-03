@@ -5,7 +5,7 @@ import os
 from bs4 import BeautifulSoup
 
 # Read the body of the last file
-files = os.listdir('pages')
+files = [f for f in os.listdir('pages') if f.endswith('.html')]
 files.sort()
 
 # Use consistent names, when there are multiple versions
@@ -19,7 +19,7 @@ files.sort()
 # Used to keep track of cases
 data = []
 
-for fname in files[2:]:
+for fname in files:
     soup = BeautifulSoup(open(os.path.join('pages', fname), 'rb'), 'html5lib')
     table = soup.find('table')
     

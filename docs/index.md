@@ -8,9 +8,9 @@ Plots and data are being updated.
 Data for the 2020-2021 year is available [here](year2020.html)
 
 
-## Students and staff testing positive
+## Number of cases by building
 
-The information below is current numbers as of the timestamp below of anyone who is currently in isolation (positive case).
+The information below is numbers as of the timestamp below of anyone who is currently in isolation (positive case).
 The dashboard is updated weekly on Friday, as new cases are confirmed with Dallas County Public Health.
 
 The dashboard is to provide current positive cases per building (either `0`, `1 to 5` or the actual number if `6` and above).
