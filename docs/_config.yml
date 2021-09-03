@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 title: WCSD COVID-19
 description: Tracking COVID-19 in the Waukee School District
 google_analytics: UA-177481088-1
+header_pages:
+  - index.md
+  - year2020.md
