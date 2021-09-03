@@ -4,11 +4,11 @@
     "url": "https://eibanez.github.io/waukee-covid19/data2021.json",
     "format": {"parse": {"time": "utc:'%Y-%m-%d %H:%M:%S'"}}
   },
-  "mark": "square",
+  "mark": {"type": "square", "tooltip": true},
   "encoding": {
     "x": {"field": "time", "type": "temporal", "title": null},
     "y": {"field": "building", "type": "nominal", "title": null},
-    "size": {"field": "cases", "type": "quantitative", "title": "Number of cases"},
+    "size": {"field": "cases", "type": "quantitative", "title": null},
     "color": {"value": "#552988"}
   },
   "width": 400
