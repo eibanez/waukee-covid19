@@ -3,8 +3,6 @@
 This website monitors the COVID-19 stats published by the Waukee School District in their [official dashboard](https://waukeeschools.org/rtl/covid-19-information-for-families/)
 for the 2021-2022 school year.
 
-Plots and data are being updated.
-
 Data for the 2020-2021 year is available [here](year2020.html)
 
 
