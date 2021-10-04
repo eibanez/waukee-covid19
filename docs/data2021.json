@@ -1988,5 +1988,100 @@
     "time": "2021-10-02 13:05:43",
     "building": "Total Cumulative staff and students since August 25, 2021",
     "cases": 294
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Brookview Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Eason Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Grant Ragan Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Maple Grove Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Radiant Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Shuler Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Walnut Hills Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Waukee Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Woodland Hills Elementary",
+    "cases": 7
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "South Middle School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Waukee Middle School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Prairieview School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Timberline School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Waukee High School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Northwest High School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Vince Meyer Learning Center",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Total Students",
+    "cases": 35
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Total Staff",
+    "cases": 11
+  },
+  {
+    "time": "2021-10-04 15:47:36",
+    "building": "Total Cumulative staff and students since August 25, 2021",
+    "cases": 294
   }
 ]
