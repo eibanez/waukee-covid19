@@ -7,8 +7,8 @@
   "mark": {"type": "line", "tooltip": true},
   "encoding": {
     "x": {"field": "time", "type": "temporal", "title": null},
-    "y": {"field": "cases", "type": "quantitative", "title": null},
+    "y": {"field": "cases", "type": "quantitative", "title": "Case count"},
     "color": {"value": "#552988"}
   },
-  "width": 400
+  "width": 500
 }
