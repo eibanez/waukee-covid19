@@ -18,6 +18,8 @@ files.sort()
 
 # Used to keep track of cases
 data = []
+cumulative = []
+totals = []
 
 for fname in files:
     soup = BeautifulSoup(open(os.path.join('pages', fname), 'rb'), 'html5lib')
@@ -41,15 +43,37 @@ for fname in files:
             except ValueError:
                 cases = 2.5
             
-            new_data = {
-                'time': str(time),
-                'building': building,
-                'cases': cases
-            }
-            data.append(new_data)
+            if building == 'Total':
+                pass
+            elif building.startswith('Total Cumulative'):
+                new_data = {
+                    'time': str(time),
+                    'cases': cases
+                }
+                cumulative.append(new_data)
+            elif building.startswith('Total'):
+                new_data = {
+                    'time': str(time),
+                    'type': building,
+                    'cases': cases
+                }
+                totals.append(new_data)
+            else:
+                new_data = {
+                    'time': str(time),
+                    'building': building,
+                    'cases': cases
+                }
+                data.append(new_data)
             
             building = None
             cases = None
 
 with open(os.path.join('docs', 'data2021.json'), 'w') as f:
     f.write(json.dumps(data, indent=2))
+
+with open(os.path.join('docs', 'totals2021.json'), 'w') as f:
+    f.write(json.dumps(totals, indent=2))
+
+with open(os.path.join('docs', 'cumulative2021.json'), 'w') as f:
+    f.write(json.dumps(cumulative, indent=2))

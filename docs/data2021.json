@@ -485,11 +485,6 @@
     "cases": 0
   },
   {
-    "time": "2021-09-13 17:33:07",
-    "building": "Total",
-    "cases": 41
-  },
-  {
     "time": "2021-09-15 13:34:06",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -568,11 +563,6 @@
     "time": "2021-09-15 13:34:06",
     "building": "Vince Meyer Learning Center",
     "cases": 0
-  },
-  {
-    "time": "2021-09-15 13:34:06",
-    "building": "Total",
-    "cases": 41
   },
   {
     "time": "2021-09-17 16:53:51",
@@ -655,11 +645,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-09-17 16:53:51",
-    "building": "Total",
-    "cases": 65
-  },
-  {
     "time": "2021-09-24 14:37:03",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -740,11 +725,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-09-24 14:37:03",
-    "building": "Total",
-    "cases": 65
-  },
-  {
     "time": "2021-09-24 17:32:36",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -825,11 +805,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-09-24 17:32:36",
-    "building": "Total",
-    "cases": 43
-  },
-  {
     "time": "2021-09-27 17:36:28",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -910,11 +885,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-09-27 17:36:28",
-    "building": "Total",
-    "cases": 32
-  },
-  {
     "time": "2021-09-28 03:31:34",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -993,11 +963,6 @@
     "time": "2021-09-28 03:31:34",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
-  },
-  {
-    "time": "2021-09-28 03:31:34",
-    "building": "Total",
-    "cases": 32
   },
   {
     "time": "2021-09-28 17:15:03",
@@ -1080,16 +1045,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-09-28 17:15:03",
-    "building": "Total Students",
-    "cases": 31
-  },
-  {
-    "time": "2021-09-28 17:15:03",
-    "building": "Total Staff",
-    "cases": 7
-  },
-  {
     "time": "2021-09-29 17:16:02",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -1170,16 +1125,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-09-29 17:16:02",
-    "building": "Total Students",
-    "cases": 32
-  },
-  {
-    "time": "2021-09-29 17:16:02",
-    "building": "Total Staff",
-    "cases": 11
-  },
-  {
     "time": "2021-09-30 18:11:59",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -1258,16 +1203,6 @@
     "time": "2021-09-30 18:11:59",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
-  },
-  {
-    "time": "2021-09-30 18:11:59",
-    "building": "Total Students",
-    "cases": 35
-  },
-  {
-    "time": "2021-09-30 18:11:59",
-    "building": "Total Staff",
-    "cases": 11
   },
   {
     "time": "2021-09-30 22:10:21",
@@ -1350,16 +1285,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-09-30 22:10:21",
-    "building": "Total Students",
-    "cases": 35
-  },
-  {
-    "time": "2021-09-30 22:10:21",
-    "building": "Total Staff",
-    "cases": 11
-  },
-  {
     "time": "2021-10-01 18:34:19",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -1438,16 +1363,6 @@
     "time": "2021-10-01 18:34:19",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
-  },
-  {
-    "time": "2021-10-01 18:34:19",
-    "building": "Total Students",
-    "cases": 36
-  },
-  {
-    "time": "2021-10-01 18:34:19",
-    "building": "Total Staff",
-    "cases": 12
   },
   {
     "time": "2021-10-01 18:47:10",
@@ -1530,16 +1445,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-10-01 18:47:10",
-    "building": "Total Students",
-    "cases": 36
-  },
-  {
-    "time": "2021-10-01 18:47:10",
-    "building": "Total Staff",
-    "cases": 12
-  },
-  {
     "time": "2021-10-01 19:08:58",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -1618,16 +1523,6 @@
     "time": "2021-10-01 19:08:58",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
-  },
-  {
-    "time": "2021-10-01 19:08:58",
-    "building": "Total Students",
-    "cases": 36
-  },
-  {
-    "time": "2021-10-01 19:08:58",
-    "building": "Total Staff",
-    "cases": 12
   },
   {
     "time": "2021-10-01 19:33:44",
@@ -1710,16 +1605,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-10-01 19:33:44",
-    "building": "Total Students",
-    "cases": 35
-  },
-  {
-    "time": "2021-10-01 19:33:44",
-    "building": "Total Staff",
-    "cases": 11
-  },
-  {
     "time": "2021-10-01 19:53:55",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -1798,16 +1683,6 @@
     "time": "2021-10-01 19:53:55",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
-  },
-  {
-    "time": "2021-10-01 19:53:55",
-    "building": "Total Students",
-    "cases": 35
-  },
-  {
-    "time": "2021-10-01 19:53:55",
-    "building": "Total Staff",
-    "cases": 11
   },
   {
     "time": "2021-10-02 00:36:02",
@@ -1890,11 +1765,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-10-02 00:36:02",
-    "building": "Total Students",
-    "cases": 35
-  },
-  {
     "time": "2021-10-02 13:05:43",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -1975,21 +1845,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-10-02 13:05:43",
-    "building": "Total Students",
-    "cases": 35
-  },
-  {
-    "time": "2021-10-02 13:05:43",
-    "building": "Total Staff",
-    "cases": 11
-  },
-  {
-    "time": "2021-10-02 13:05:43",
-    "building": "Total Cumulative staff and students since August 25, 2021",
-    "cases": 294
-  },
-  {
     "time": "2021-10-04 15:47:36",
     "building": "Brookview Elementary",
     "cases": 2.5
@@ -2068,21 +1923,6 @@
     "time": "2021-10-04 15:47:36",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
-  },
-  {
-    "time": "2021-10-04 15:47:36",
-    "building": "Total Students",
-    "cases": 35
-  },
-  {
-    "time": "2021-10-04 15:47:36",
-    "building": "Total Staff",
-    "cases": 11
-  },
-  {
-    "time": "2021-10-04 15:47:36",
-    "building": "Total Cumulative staff and students since August 25, 2021",
-    "cases": 294
   },
   {
     "time": "2021-10-04 20:10:54",
@@ -2165,16 +2005,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-10-04 20:10:54",
-    "building": "Total Students",
-    "cases": 38
-  },
-  {
-    "time": "2021-10-04 20:10:54",
-    "building": "Total Staff",
-    "cases": 7
-  },
-  {
     "time": "2021-10-04 20:53:51",
     "building": "Brookview Elementary",
     "cases": 8
@@ -2255,16 +2085,6 @@
     "cases": 2.5
   },
   {
-    "time": "2021-10-04 20:53:51",
-    "building": "Total Students",
-    "cases": 38
-  },
-  {
-    "time": "2021-10-04 20:53:51",
-    "building": "Total Staff",
-    "cases": 7
-  },
-  {
     "time": "2021-10-04 21:08:57",
     "building": "Brookview Elementary",
     "cases": 8
@@ -2343,15 +2163,5 @@
     "time": "2021-10-04 21:08:57",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
-  },
-  {
-    "time": "2021-10-04 21:08:57",
-    "building": "Total Students",
-    "cases": 38
-  },
-  {
-    "time": "2021-10-04 21:08:57",
-    "building": "Total Staff",
-    "cases": 7
   }
 ]
