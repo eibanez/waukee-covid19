@@ -36,7 +36,11 @@ for fname in files:
             continue
         
         if building is None:
-            building = sect.string.strip()
+            try:
+                building = sect.string.strip()
+            except AttributeError:
+                building = sect.string
+            
             continue
         else:
             try:
