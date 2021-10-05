@@ -36,7 +36,7 @@ for fname in files:
             continue
         
         if building is None:
-            building = sect.string
+            building = sect.string.strip()
             continue
         else:
             try:
