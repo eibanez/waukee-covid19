@@ -18,8 +18,9 @@ files.sort()
 
 # Used to keep track of cases
 data = []
-cumulative = []
 totals = []
+cumulative = []
+prev_cumulative = None
 
 for fname in files:
     soup = BeautifulSoup(open(os.path.join('pages', fname), 'rb'), 'html5lib')
@@ -46,11 +47,13 @@ for fname in files:
             if building == 'Total':
                 pass
             elif building.startswith('Total Cumulative'):
-                new_data = {
-                    'time': str(time),
-                    'cases': cases
-                }
-                cumulative.append(new_data)
+                if cases != prev_cumulative:
+                    new_data = {
+                        'time': str(time),
+                        'cases': cases
+                    }
+                    cumulative.append(new_data)
+                    prev_cumulative = cases
             elif building.startswith('Total'):
                 new_data = {
                     'time': str(time),
