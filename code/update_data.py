@@ -36,10 +36,11 @@ for fname in files:
             continue
         
         if building is None:
-            try:
+            if sect.string is None:
+                for ch in sect.find_all('b'):
+                    building = ch.string.strip()
+            else:
                 building = sect.string.strip()
-            except AttributeError:
-                building = sect.string
             
             continue
         else:
