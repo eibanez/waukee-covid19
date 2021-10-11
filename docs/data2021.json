@@ -2883,5 +2883,85 @@
     "time": "2021-10-08 22:09:58",
     "building": "Vince Meyer Learning Center",
     "cases": 0
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Brookview Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Eason Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Grant Ragan Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Maple Grove Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Radiant Elementary",
+    "cases": 0
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Shuler Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Walnut Hills Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Waukee Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Woodland Hills Elementary",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "South Middle School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Waukee Middle School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Prairieview School",
+    "cases": 0
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Timberline School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Waukee High School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Northwest High School",
+    "cases": 2.5
+  },
+  {
+    "time": "2021-10-11 18:35:26",
+    "building": "Vince Meyer Learning Center",
+    "cases": 0
   }
 ]
