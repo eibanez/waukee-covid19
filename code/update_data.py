@@ -18,6 +18,7 @@ files.sort()
 
 # Used to keep track of cases
 data = []
+start = {}
 totals = []
 cumulative = []
 prev_cumulative = None
@@ -26,7 +27,7 @@ for fname in files:
     soup = BeautifulSoup(open(os.path.join('pages', fname), 'rb'), 'html5lib')
     table = soup.find('table')
     
-    time = datetime.datetime.strptime(fname, 'page_%Y-%m-%d_%H-%M-%S.html')
+    time = str(datetime.datetime.strptime(fname, 'page_%Y-%m-%d_%H-%M-%S.html'))
     building = None
     cases = None
     
@@ -54,28 +55,52 @@ for fname in files:
             elif building.startswith('Total Cumulative'):
                 if cases != prev_cumulative:
                     new_data = {
-                        'time': str(time),
+                        'time': time,
                         'cases': cases
                     }
                     cumulative.append(new_data)
                     prev_cumulative = cases
             elif building.startswith('Total'):
                 new_data = {
-                    'time': str(time),
+                    'time': time,
                     'type': building,
                     'cases': cases
                 }
                 totals.append(new_data)
             else:
-                new_data = {
-                    'time': str(time),
-                    'building': building,
-                    'cases': cases
-                }
-                data.append(new_data)
+                try:
+                    pd, t = start[building]
+                    
+                    if pd != cases:
+                        new_data = {
+                            'start': t,
+                            'end': time,
+                            'building': building,
+                            'cases': pd
+                        }
+                        data.append(new_data)
+                        
+                        if cases > 0:
+                            start[building] = (cases, time)
+                        else:
+                            start.pop(building)
+                except KeyError:
+                    if cases > 0:
+                        start[building] = (cases, time)
             
             building = None
             cases = None
+
+for b, d in start.items():
+    pd, t = d
+    if pd > 0:
+        new_data = {
+            'start': t,
+            'end': time,
+            'building': b,
+            'cases': pd
+        }
+        data.append(new_data)
 
 with open(os.path.join('docs', 'data2021.json'), 'w') as f:
     f.write(json.dumps(data, indent=2))
