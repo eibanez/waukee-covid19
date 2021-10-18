@@ -216,81 +216,87 @@
     "cases": 2.5
   },
   {
+    "start": "2021-10-11 18:35:26",
+    "end": "2021-10-18 18:58:21",
+    "building": "Timberline School",
+    "cases": 2.5
+  },
+  {
     "start": "2021-10-08 16:53:35",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Brookview Elementary",
     "cases": 2.5
   },
   {
     "start": "2021-09-03 17:16:24",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Grant Ragan Elementary",
     "cases": 2.5
   },
   {
     "start": "2021-09-24 17:32:36",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Waukee High School",
     "cases": 2.5
   },
   {
     "start": "2021-09-29 17:16:02",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Northwest High School",
     "cases": 2.5
   },
   {
     "start": "2021-09-10 17:13:37",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Maple Grove Elementary",
     "cases": 2.5
   },
   {
     "start": "2021-09-10 18:11:39",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "District Office",
     "cases": 2.5
   },
   {
     "start": "2021-09-10 18:36:00",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Shuler Elementary",
     "cases": 2.5
   },
   {
     "start": "2021-09-17 16:53:51",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "South Middle School",
     "cases": 2.5
   },
   {
     "start": "2021-10-08 16:53:35",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Waukee Middle School",
     "cases": 2.5
   },
   {
     "start": "2021-10-11 18:35:26",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Walnut Hills Elementary",
     "cases": 2.5
   },
   {
-    "start": "2021-10-11 18:35:26",
-    "end": "2021-10-15 20:43:50",
-    "building": "Timberline School",
-    "cases": 2.5
-  },
-  {
     "start": "2021-10-13 20:43:42",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Radiant Elementary",
     "cases": 2.5
   },
   {
     "start": "2021-10-13 20:43:42",
-    "end": "2021-10-15 20:43:50",
+    "end": "2021-10-18 18:58:21",
     "building": "Prairieview School",
+    "cases": 2.5
+  },
+  {
+    "start": "2021-10-18 18:58:21",
+    "end": "2021-10-18 18:58:21",
+    "building": "Vince Meyer Learning Center",
     "cases": 2.5
   }
 ]
