@@ -498,5 +498,15 @@
     "time": "2021-10-26 14:10:15",
     "type": "Total Staff",
     "cases": 7
+  },
+  {
+    "time": "2021-10-26 14:26:11",
+    "type": "Total Students",
+    "cases": 22
+  },
+  {
+    "time": "2021-10-26 14:26:11",
+    "type": "Total Staff",
+    "cases": 7
   }
 ]
