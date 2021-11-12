@@ -888,5 +888,15 @@
     "time": "2021-11-12 14:44:27",
     "type": "Total Staff",
     "cases": 10
+  },
+  {
+    "time": "2021-11-12 20:32:05",
+    "type": "Total Students",
+    "cases": 54
+  },
+  {
+    "time": "2021-11-12 20:32:05",
+    "type": "Total Staff",
+    "cases": 10
   }
 ]
