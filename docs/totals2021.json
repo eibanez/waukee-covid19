@@ -1098,5 +1098,15 @@
     "time": "2021-11-22 21:44:50",
     "type": "Total Staff",
     "cases": 15
+  },
+  {
+    "time": "2021-11-23 19:34:19",
+    "type": "Total Students",
+    "cases": 76
+  },
+  {
+    "time": "2021-11-23 19:34:19",
+    "type": "Total Staff",
+    "cases": 15
   }
 ]
