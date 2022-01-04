@@ -61,6 +61,14 @@ for fname in files:
                     cumulative.append(new_data)
                     prev_cumulative = cases
             elif building.startswith('Total'):
+                if time.startswith('2022-01-03'):
+                    new_data = {
+                        'time': time.replace('2022-01-03', '2022-01-02'),
+                        'type': building,
+                        'cases': None
+                    }
+                    totals.append(new_data)
+                
                 new_data = {
                     'time': time,
                     'type': building,
