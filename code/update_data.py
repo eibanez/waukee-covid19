@@ -62,6 +62,7 @@ for fname in files:
                     prev_cumulative = cases
             elif building.startswith('Total'):
                 if time.startswith('2022-01-03'):
+                    # Xmas break
                     new_data = {
                         'time': time.replace('2022-01-03', '2022-01-02'),
                         'type': building,
@@ -79,7 +80,21 @@ for fname in files:
                 try:
                     pd, t = start[building]
                     
-                    if pd != cases:
+                    if time.startswith('2022-01-03'):
+                        # Xmas break
+                        new_data = {
+                            'start': t,
+                            'end': prev_time,
+                            'building': building,
+                            'cases': pd
+                        }
+                        data.append(new_data)
+                        
+                        if cases > 0:
+                            start[building] = (cases, time)
+                        else:
+                            start.pop(building)
+                    elif pd != cases:
                         new_data = {
                             'start': t,
                             'end': time,
@@ -98,6 +113,8 @@ for fname in files:
             
             building = None
             cases = None
+    
+    prev_time = time
 
 for b, d in start.items():
     pd, t = d
