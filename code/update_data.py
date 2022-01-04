@@ -52,6 +52,8 @@ for fname in files:
             
             if building == 'Total':
                 pass
+            elif building == 'District Office':
+                pass
             elif building.startswith('Total Cumulative'):
                 if cases != prev_cumulative:
                     new_data = {
