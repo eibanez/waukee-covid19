@@ -4,7 +4,7 @@
     "url": "https://eibanez.github.io/waukee-covid19/cumulative2021.json",
     "format": {"parse": {"time": "utc:'%Y-%m-%d %H:%M:%S'"}}
   },
-  "mark": {"type": "line", "tooltip": true},
+  "mark": {"type": "line", "point": true, "tooltip": true},
   "encoding": {
     "x": {"field": "time", "type": "temporal", "title": null},
     "y": {"field": "cases", "type": "quantitative", "title": "Case count"},
