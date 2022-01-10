@@ -48,7 +48,10 @@ for fname in files:
             try:
                 cases = int(sect.string)
             except ValueError:
-                cases = 2.5
+                try:
+                    cases = int(sect.string.replace(',', ''))
+                except ValueError:
+                    cases = 2.5
             
             if building == 'Total':
                 pass
