@@ -1435,98 +1435,158 @@
   },
   {
     "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
-    "building": "Waukee Middle School",
-    "cases": 18
-  },
-  {
-    "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
+    "end": "2022-01-12 20:34:15",
     "building": "Grant Ragan Elementary",
     "cases": 13
   },
   {
-    "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
-    "building": "Waukee High School",
-    "cases": 21
-  },
-  {
     "start": "2022-01-10 18:15:51",
-    "end": "2022-01-11 21:53:44",
+    "end": "2022-01-12 20:34:15",
     "building": "Shuler Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-01-10 18:15:51",
-    "end": "2022-01-11 21:53:44",
-    "building": "Brookview Elementary",
-    "cases": 2.5
-  },
-  {
-    "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
-    "building": "South Middle School",
-    "cases": 11
-  },
-  {
-    "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
-    "building": "Northwest High School",
-    "cases": 29
-  },
-  {
-    "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
-    "building": "Waukee Elementary",
-    "cases": 8
-  },
-  {
-    "start": "2022-01-10 18:15:51",
-    "end": "2022-01-11 21:53:44",
+    "end": "2022-01-12 20:34:15",
     "building": "Walnut Hills Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
-    "building": "Eason Elementary",
-    "cases": 12
-  },
-  {
-    "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
-    "building": "Maple Grove Elementary",
-    "cases": 6
+    "end": "2022-01-12 20:34:15",
+    "building": "Waukee Elementary",
+    "cases": 8
   },
   {
     "start": "2022-01-04 18:52:57",
-    "end": "2022-01-11 21:53:44",
-    "building": "Radiant Elementary",
-    "cases": 2.5
-  },
-  {
-    "start": "2022-01-04 18:52:57",
-    "end": "2022-01-11 21:53:44",
+    "end": "2022-01-12 20:34:15",
     "building": "Woodland Hills Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
+    "end": "2022-01-12 20:34:15",
+    "building": "Waukee Middle School",
+    "cases": 18
+  },
+  {
+    "start": "2022-01-11 18:39:14",
+    "end": "2022-01-12 20:34:15",
+    "building": "Prairieview School",
+    "cases": 30
+  },
+  {
+    "start": "2022-01-11 18:39:14",
+    "end": "2022-01-12 20:34:15",
     "building": "Timberline School",
     "cases": 13
   },
   {
-    "start": "2022-01-04 20:54:09",
-    "end": "2022-01-11 21:53:44",
-    "building": "Vince Meyer Learning Center",
+    "start": "2022-01-11 18:39:14",
+    "end": "2022-01-12 20:34:15",
+    "building": "Waukee High School",
+    "cases": 21
+  },
+  {
+    "start": "2022-01-11 18:39:14",
+    "end": "2022-01-12 20:34:15",
+    "building": "Northwest High School",
+    "cases": 29
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Waukee Middle School",
+    "cases": 20
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Grant Ragan Elementary",
+    "cases": 12
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Waukee High School",
+    "cases": 18
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Shuler Elementary",
+    "cases": 6
+  },
+  {
+    "start": "2022-01-10 18:15:51",
+    "end": "2022-01-12 20:34:15",
+    "building": "Brookview Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-01-11 18:39:14",
-    "end": "2022-01-11 21:53:44",
+    "end": "2022-01-12 20:34:15",
+    "building": "South Middle School",
+    "cases": 11
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Northwest High School",
+    "cases": 27
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Waukee Elementary",
+    "cases": 9
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Walnut Hills Elementary",
+    "cases": 6
+  },
+  {
+    "start": "2022-01-11 18:39:14",
+    "end": "2022-01-12 20:34:15",
+    "building": "Eason Elementary",
+    "cases": 12
+  },
+  {
+    "start": "2022-01-11 18:39:14",
+    "end": "2022-01-12 20:34:15",
+    "building": "Maple Grove Elementary",
+    "cases": 6
+  },
+  {
+    "start": "2022-01-04 18:52:57",
+    "end": "2022-01-12 20:34:15",
+    "building": "Radiant Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Woodland Hills Elementary",
+    "cases": 8
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
+    "building": "Timberline School",
+    "cases": 16
+  },
+  {
+    "start": "2022-01-04 20:54:09",
+    "end": "2022-01-12 20:34:15",
+    "building": "Vince Meyer Learning Center",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-01-12 20:34:15",
+    "end": "2022-01-12 20:34:15",
     "building": "Prairieview School",
-    "cases": 30
+    "cases": 29
   }
 ]
