@@ -10,7 +10,7 @@
     "y": {"field": "cases", "type": "quantitative", "title": "Current cases"},
     "color": {"field": "type", "type": "nominal", "title": null, "scale": {"range": ["#717b00", "#552988"]}},
     "tooltip": [
-      {"field": "time", "title": "Date"},
+      {"field": "time", "title": "Date", "type": "temporal"},
       {"field": "type", "title": "Type"},
       {"field": "cases", "title": "Cases"}
     ]
