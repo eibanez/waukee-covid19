@@ -13,8 +13,8 @@
     "detail": {"field": "building", "type": "nominal"},
     "color": {"value": "#552988"},
     "tooltip": [
-      {"field": "start", "title": "Start"},
-      {"field": "end", "title": "End"},
+      {"field": "start", "title": "Start", "type": "temporal"},
+      {"field": "end", "title": "End", "type": "temporal"},
       {"field": "building", "title": "Building"},
       {"field": "cases", "title": "Cases"}
     ]
