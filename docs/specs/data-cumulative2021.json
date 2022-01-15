@@ -8,7 +8,11 @@
   "encoding": {
     "x": {"field": "time", "type": "temporal", "title": null},
     "y": {"field": "cases", "type": "quantitative", "title": "Case count"},
-    "color": {"value": "#552988"}
+    "color": {"value": "#552988"},
+    "tooltip": [
+      {"field": "time", "title": "Date"},
+      {"field": "cases", "title": "Cases"}
+    ]
   },
   "width": 500
 }
