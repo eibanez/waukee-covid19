@@ -11,7 +11,13 @@
     "y": {"field": "building", "type": "nominal", "title": null},
     "size": {"field": "cases", "type": "quantitative", "title": null},
     "detail": {"field": "building", "type": "nominal"},
-    "color": {"value": "#552988"}
+    "color": {"value": "#552988"},
+    "tooltip": [
+      {"field": "start", "title": "Start"},
+      {"field": "end", "title": "End"},
+      {"field": "building", "title": "Building"},
+      {"field": "cases", "title": "Cases"}
+    ]
   },
   "width": 400
 }
