@@ -8,7 +8,12 @@
   "encoding": {
     "x": {"field": "time", "type": "temporal", "title": null},
     "y": {"field": "cases", "type": "quantitative", "title": "Current cases"},
-    "color": {"field": "type", "type": "nominal", "title": null, "scale": {"range": ["#717b00", "#552988"]}}
+    "color": {"field": "type", "type": "nominal", "title": null, "scale": {"range": ["#717b00", "#552988"]}},
+    "tooltip": [
+      {"field": "time", "title": "Date"},
+      {"field": "type", "title": "Type"},
+      {"field": "cases", "title": "Cases"}
+    ]
   },
   "width": 500
 }
