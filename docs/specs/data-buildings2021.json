@@ -4,7 +4,7 @@
     "url": "https://eibanez.github.io/waukee-covid19/data2021.json",
     "format": {"parse": {"time": "utc:'%Y-%m-%d %H:%M:%S'"}}
   },
-  "mark": {"type": "rule", "tooltip": true},
+  "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "x": {"field": "start", "type": "temporal", "title": null},
     "x2": {"field": "end", "type": "temporal", "title": null},
