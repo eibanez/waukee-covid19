@@ -1868,5 +1868,15 @@
     "time": "2022-01-20 17:53:49",
     "type": "Total Staff",
     "cases": 34
+  },
+  {
+    "time": "2022-01-20 19:09:27",
+    "type": "Total Students",
+    "cases": 171
+  },
+  {
+    "time": "2022-01-20 19:09:27",
+    "type": "Total Staff",
+    "cases": 34
   }
 ]
