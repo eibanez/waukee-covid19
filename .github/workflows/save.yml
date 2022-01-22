@@ -23,10 +23,11 @@ jobs:
       run: |
         python code/save_page.py
     - name: Update json files
-      continue-on-error: true
+      continue-on-error: false
       run: |
         python code/update_data.py
     - name: Commit results to this repository
+      if: always()
       continue-on-error: true
       run: |
         git config --global user.name 'Run bot'
