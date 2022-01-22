@@ -8,14 +8,6 @@ from bs4 import BeautifulSoup
 files = [f for f in os.listdir('pages') if f.endswith('.html')]
 files.sort()
 
-# Use consistent names, when there are multiple versions
-#clean_names = {
-#    'Maple Grove': 'Maple Grove Elementary',
-#    'Grant Ragan': 'Grant Ragan Elementary',
-#    'Waukee Innovation and Learning Center': 'Waukee ILC',
-#    'Priaireview School': 'Prairieview School'
-#}
-
 # Used to keep track of cases
 data = []
 start = {}
@@ -52,6 +44,8 @@ for fname in files:
                     cases = int(sect.string.replace(',', ''))
                 except ValueError:
                     cases = 2.5
+            except TypeError:
+                continue
             
             if building == 'Total':
                 pass
