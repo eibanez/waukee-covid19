@@ -1938,5 +1938,15 @@
     "time": "2022-01-24 18:55:20",
     "type": "Total Staff",
     "cases": 15
+  },
+  {
+    "time": "2022-01-24 20:11:10",
+    "type": "Total Students",
+    "cases": 128
+  },
+  {
+    "time": "2022-01-24 20:11:10",
+    "type": "Total Staff",
+    "cases": 15
   }
 ]
