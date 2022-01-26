@@ -1988,5 +1988,15 @@
     "time": "2022-01-26 17:48:26",
     "type": "Total Staff",
     "cases": 24
+  },
+  {
+    "time": "2022-01-26 18:48:46",
+    "type": "Total Students",
+    "cases": 124
+  },
+  {
+    "time": "2022-01-26 18:48:46",
+    "type": "Total Staff",
+    "cases": 26
   }
 ]
