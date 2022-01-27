@@ -2018,5 +2018,15 @@
     "time": "2022-01-27 17:27:27",
     "type": "Total Staff",
     "cases": 26
+  },
+  {
+    "time": "2022-01-27 21:45:01",
+    "type": "Total Students",
+    "cases": 116
+  },
+  {
+    "time": "2022-01-27 21:45:01",
+    "type": "Total Staff",
+    "cases": 26
   }
 ]
