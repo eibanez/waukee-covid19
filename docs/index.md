@@ -8,7 +8,7 @@ Data for the 2020-2021 year is available [here](year2020.html)
 
 ## Total cases
 
-The following graph shows the total cumulateive staff and students that tested positive since August 25, 2021. The numbers are
+The following graph shows the total cumulative staff and students that tested positive since August 25, 2021. The numbers are
 updated weekly.
 
 <div id="data-cumulative2021"></div>
