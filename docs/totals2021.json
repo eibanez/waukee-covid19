@@ -2238,5 +2238,15 @@
     "time": "2022-02-09 19:20:36",
     "type": "Total Staff",
     "cases": 13
+  },
+  {
+    "time": "2022-02-09 21:35:43",
+    "type": "Total Students",
+    "cases": 31
+  },
+  {
+    "time": "2022-02-09 21:35:43",
+    "type": "Total Staff",
+    "cases": 6
   }
 ]
