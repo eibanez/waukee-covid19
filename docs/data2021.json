@@ -2617,25 +2617,25 @@
   },
   {
     "start": "2022-02-07 18:45:18",
-    "end": "2022-02-24 19:12:21",
+    "end": "2022-02-24 21:53:49",
     "building": "Waukee Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-02-09 21:35:43",
-    "end": "2022-02-24 19:12:21",
+    "end": "2022-02-24 21:53:49",
     "building": "Brookview Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-02-17 17:24:59",
-    "end": "2022-02-24 19:12:21",
+    "end": "2022-02-24 21:53:49",
     "building": "Maple Grove Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-02-23 17:26:18",
-    "end": "2022-02-24 19:12:21",
+    "end": "2022-02-24 21:53:49",
     "building": "Waukee Middle School",
     "cases": 2.5
   }
