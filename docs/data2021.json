@@ -2647,8 +2647,14 @@
   },
   {
     "start": "2022-03-02 17:35:55",
-    "end": "2022-03-03 15:17:22",
+    "end": "2022-03-03 21:38:57",
     "building": "Brookview Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-03 21:38:57",
+    "end": "2022-03-03 21:38:57",
+    "building": "Maple Grove Elementary",
     "cases": 2.5
   }
 ]
