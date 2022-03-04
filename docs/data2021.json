@@ -2647,14 +2647,26 @@
   },
   {
     "start": "2022-03-02 17:35:55",
-    "end": "2022-03-03 21:38:57",
+    "end": "2022-03-04 17:23:53",
     "building": "Brookview Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-03-03 21:38:57",
-    "end": "2022-03-03 21:38:57",
+    "end": "2022-03-04 17:23:53",
     "building": "Maple Grove Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-04 17:23:53",
+    "end": "2022-03-04 17:23:53",
+    "building": "Woodland Hills Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-04 17:23:53",
+    "end": "2022-03-04 17:23:53",
+    "building": "Waukee Middle School",
     "cases": 2.5
   }
 ]
