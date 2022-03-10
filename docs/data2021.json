@@ -2664,15 +2664,27 @@
     "cases": 2.5
   },
   {
+    "start": "2022-03-07 18:36:17",
+    "end": "2022-03-10 17:26:08",
+    "building": "Radiant Elementary",
+    "cases": 2.5
+  },
+  {
     "start": "2022-03-04 17:23:53",
-    "end": "2022-03-09 18:57:22",
+    "end": "2022-03-10 17:26:08",
     "building": "Waukee Middle School",
     "cases": 2.5
   },
   {
-    "start": "2022-03-07 18:36:17",
-    "end": "2022-03-09 18:57:22",
-    "building": "Radiant Elementary",
+    "start": "2022-03-10 17:26:08",
+    "end": "2022-03-10 17:26:08",
+    "building": "South Middle School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-10 17:26:08",
+    "end": "2022-03-10 17:26:08",
+    "building": "Timberline School",
     "cases": 2.5
   }
 ]
