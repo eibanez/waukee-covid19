@@ -2670,21 +2670,33 @@
     "cases": 2.5
   },
   {
+    "start": "2022-03-10 17:26:08",
+    "end": "2022-03-22 14:14:07",
+    "building": "South Middle School",
+    "cases": 2.5
+  },
+  {
     "start": "2022-03-04 17:23:53",
-    "end": "2022-03-21 21:24:12",
+    "end": "2022-03-22 14:14:07",
     "building": "Waukee Middle School",
     "cases": 2.5
   },
   {
     "start": "2022-03-10 17:26:08",
-    "end": "2022-03-21 21:24:12",
-    "building": "South Middle School",
+    "end": "2022-03-22 14:14:07",
+    "building": "Timberline School",
     "cases": 2.5
   },
   {
-    "start": "2022-03-10 17:26:08",
-    "end": "2022-03-21 21:24:12",
-    "building": "Timberline School",
+    "start": "2022-03-22 14:14:07",
+    "end": "2022-03-22 14:14:07",
+    "building": "Maple Grove Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-22 14:14:07",
+    "end": "2022-03-22 14:14:07",
+    "building": "Northwest High School",
     "cases": 2.5
   }
 ]
