@@ -2689,14 +2689,26 @@
   },
   {
     "start": "2022-03-22 14:14:07",
-    "end": "2022-03-22 14:14:07",
+    "end": "2022-03-22 16:28:04",
     "building": "Maple Grove Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-03-22 14:14:07",
-    "end": "2022-03-22 14:14:07",
+    "end": "2022-03-22 16:28:04",
     "building": "Northwest High School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-22 16:28:04",
+    "end": "2022-03-22 16:28:04",
+    "building": "Walnut Hills Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-22 16:28:04",
+    "end": "2022-03-22 16:28:04",
+    "building": "Prairieview School",
     "cases": 2.5
   }
 ]
