@@ -2713,14 +2713,20 @@
   },
   {
     "start": "2022-03-22 14:14:07",
-    "end": "2022-03-29 20:31:54",
+    "end": "2022-03-30 16:18:20",
     "building": "Northwest High School",
     "cases": 2.5
   },
   {
     "start": "2022-03-29 18:37:40",
-    "end": "2022-03-29 20:31:54",
+    "end": "2022-03-30 16:18:20",
     "building": "Radiant Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-03-30 16:18:20",
+    "end": "2022-03-30 16:18:20",
+    "building": "Woodland Hills Elementary",
     "cases": 2.5
   }
 ]
