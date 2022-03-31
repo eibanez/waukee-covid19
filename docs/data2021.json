@@ -2718,15 +2718,15 @@
     "cases": 2.5
   },
   {
-    "start": "2022-03-29 18:37:40",
-    "end": "2022-03-30 16:18:20",
-    "building": "Radiant Elementary",
+    "start": "2022-03-30 16:18:20",
+    "end": "2022-03-31 16:20:15",
+    "building": "Woodland Hills Elementary",
     "cases": 2.5
   },
   {
-    "start": "2022-03-30 16:18:20",
-    "end": "2022-03-30 16:18:20",
-    "building": "Woodland Hills Elementary",
+    "start": "2022-03-29 18:37:40",
+    "end": "2022-03-31 16:20:15",
+    "building": "Radiant Elementary",
     "cases": 2.5
   }
 ]
