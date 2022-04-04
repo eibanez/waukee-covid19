@@ -2724,20 +2724,20 @@
     "cases": 2.5
   },
   {
+    "start": "2022-04-01 16:23:58",
+    "end": "2022-04-04 17:37:32",
+    "building": "Eason Elementary",
+    "cases": 2.5
+  },
+  {
     "start": "2022-03-29 18:37:40",
-    "end": "2022-04-01 20:44:06",
+    "end": "2022-04-04 17:37:32",
     "building": "Radiant Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-01 16:23:58",
-    "end": "2022-04-01 20:44:06",
-    "building": "Eason Elementary",
-    "cases": 2.5
-  },
-  {
-    "start": "2022-04-01 16:23:58",
-    "end": "2022-04-01 20:44:06",
+    "end": "2022-04-04 17:37:32",
     "building": "Woodland Hills Elementary",
     "cases": 2.5
   }
