@@ -2743,31 +2743,31 @@
   },
   {
     "start": "2022-04-01 16:23:58",
-    "end": "2022-04-13 16:55:56",
+    "end": "2022-04-13 20:33:14",
     "building": "Woodland Hills Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-06 17:33:08",
-    "end": "2022-04-13 16:55:56",
+    "end": "2022-04-13 20:33:14",
     "building": "Waukee High School",
     "cases": 2.5
   },
   {
     "start": "2022-04-11 17:37:33",
-    "end": "2022-04-13 16:55:56",
+    "end": "2022-04-13 20:33:14",
     "building": "Radiant Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-11 17:37:33",
-    "end": "2022-04-13 16:55:56",
+    "end": "2022-04-13 20:33:14",
     "building": "Shuler Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-13 16:55:56",
-    "end": "2022-04-13 16:55:56",
+    "end": "2022-04-13 20:33:14",
     "building": "Eason Elementary",
     "cases": 2.5
   }
