@@ -2767,38 +2767,44 @@
   },
   {
     "start": "2022-04-01 16:23:58",
-    "end": "2022-04-20 20:33:42",
+    "end": "2022-04-21 16:18:23",
     "building": "Woodland Hills Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-13 16:55:56",
-    "end": "2022-04-20 20:33:42",
+    "end": "2022-04-21 16:18:23",
     "building": "Eason Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-18 16:17:54",
-    "end": "2022-04-20 20:33:42",
+    "end": "2022-04-21 16:18:23",
     "building": "Maple Grove Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-20 19:15:24",
-    "end": "2022-04-20 20:33:42",
+    "end": "2022-04-21 16:18:23",
     "building": "Grant Ragan Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-20 19:15:24",
-    "end": "2022-04-20 20:33:42",
+    "end": "2022-04-21 16:18:23",
     "building": "Shuler Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-20 19:15:24",
-    "end": "2022-04-20 20:33:42",
+    "end": "2022-04-21 16:18:23",
     "building": "Waukee High School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-04-21 16:18:23",
+    "end": "2022-04-21 16:18:23",
+    "building": "Prairieview School",
     "cases": 2.5
   }
 ]
