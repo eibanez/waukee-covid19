@@ -2796,33 +2796,45 @@
     "cases": 2.5
   },
   {
+    "start": "2022-04-26 16:28:11",
+    "end": "2022-04-28 16:23:18",
+    "building": "Radiant Elementary",
+    "cases": 2.5
+  },
+  {
     "start": "2022-04-01 16:23:58",
-    "end": "2022-04-27 21:31:18",
+    "end": "2022-04-28 16:23:18",
     "building": "Woodland Hills Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-18 16:17:54",
-    "end": "2022-04-27 21:31:18",
+    "end": "2022-04-28 16:23:18",
     "building": "Maple Grove Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-04-20 19:15:24",
-    "end": "2022-04-27 21:31:18",
+    "end": "2022-04-28 16:23:18",
     "building": "Waukee High School",
     "cases": 2.5
   },
   {
     "start": "2022-04-26 16:28:11",
-    "end": "2022-04-27 21:31:18",
-    "building": "Radiant Elementary",
+    "end": "2022-04-28 16:23:18",
+    "building": "Waukee Middle School",
     "cases": 2.5
   },
   {
-    "start": "2022-04-26 16:28:11",
-    "end": "2022-04-27 21:31:18",
-    "building": "Waukee Middle School",
+    "start": "2022-04-28 16:23:18",
+    "end": "2022-04-28 16:23:18",
+    "building": "South Middle School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-04-28 16:23:18",
+    "end": "2022-04-28 16:23:18",
+    "building": "Northwest High School",
     "cases": 2.5
   }
 ]
