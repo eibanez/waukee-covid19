@@ -45,11 +45,15 @@ for fname in files:
                 except ValueError:
                     cases = 2.5
             except TypeError:
-                cases_str = [s3 for s3 in [s2 for s2 in [s for s in sect.children][0].children][0].children][0]
-                try:
-                    cases = int(cases_str.replace(',', ''))
-                except:
-                    continue
+                if building == 'Total Students7':
+                    building = 'Total Students'
+                    cases = 7
+                else:
+                    cases_str = [s3 for s3 in [s2 for s2 in [s for s in sect.children][0].children][0].children][0]
+                    try:
+                        cases = int(cases_str.replace(',', ''))
+                    except:
+                        continue
             
             if building == 'Total':
                 pass
