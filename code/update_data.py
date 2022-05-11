@@ -79,7 +79,7 @@ for fname in files:
                 
                 # Override numbers that are way too high
                 if (cases == 1210):
-                    cases == 10
+                    cases = 10
                 
                 new_data = {
                     'time': time,
