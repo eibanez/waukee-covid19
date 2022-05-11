@@ -73,6 +73,10 @@ for fname in files:
                     }
                     totals.append(new_data)
                 
+                # Override numbers that are way too high
+                if (cases == 1210):
+                    cases == 10
+                
                 new_data = {
                     'time': time,
                     'type': building,
