@@ -2863,38 +2863,44 @@
   },
   {
     "start": "2022-04-26 16:28:11",
-    "end": "2022-05-11 20:46:27",
+    "end": "2022-05-12 17:27:57",
     "building": "Waukee Middle School",
     "cases": 2.5
   },
   {
     "start": "2022-04-28 16:23:18",
-    "end": "2022-05-11 20:46:27",
+    "end": "2022-05-12 17:27:57",
     "building": "Northwest High School",
     "cases": 2.5
   },
   {
     "start": "2022-05-05 17:00:52",
-    "end": "2022-05-11 20:46:27",
+    "end": "2022-05-12 17:27:57",
     "building": "Grant Ragan Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-05-10 16:20:53",
-    "end": "2022-05-11 20:46:27",
+    "end": "2022-05-12 17:27:57",
     "building": "Waukee High School",
     "cases": 2.5
   },
   {
     "start": "2022-05-11 16:19:19",
-    "end": "2022-05-11 20:46:27",
+    "end": "2022-05-12 17:27:57",
     "building": "Waukee Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-05-11 16:19:19",
-    "end": "2022-05-11 20:46:27",
+    "end": "2022-05-12 17:27:57",
     "building": "Prairieview School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-05-12 17:27:57",
+    "end": "2022-05-12 17:27:57",
+    "building": "Vince Meyer Learning Center",
     "cases": 2.5
   }
 ]
