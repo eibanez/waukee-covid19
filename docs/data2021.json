@@ -2862,45 +2862,57 @@
     "cases": 2.5
   },
   {
-    "start": "2022-04-26 16:28:11",
-    "end": "2022-05-13 17:27:12",
-    "building": "Waukee Middle School",
-    "cases": 2.5
-  },
-  {
-    "start": "2022-04-28 16:23:18",
-    "end": "2022-05-13 17:27:12",
-    "building": "Northwest High School",
-    "cases": 2.5
-  },
-  {
     "start": "2022-05-05 17:00:52",
-    "end": "2022-05-13 17:27:12",
+    "end": "2022-05-16 16:59:53",
     "building": "Grant Ragan Elementary",
     "cases": 2.5
   },
   {
-    "start": "2022-05-10 16:20:53",
-    "end": "2022-05-13 17:27:12",
-    "building": "Waukee High School",
-    "cases": 2.5
-  },
-  {
     "start": "2022-05-11 16:19:19",
-    "end": "2022-05-13 17:27:12",
+    "end": "2022-05-16 16:59:53",
     "building": "Waukee Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-05-11 16:19:19",
-    "end": "2022-05-13 17:27:12",
+    "end": "2022-05-16 16:59:53",
     "building": "Prairieview School",
     "cases": 2.5
   },
   {
+    "start": "2022-05-10 16:20:53",
+    "end": "2022-05-16 16:59:53",
+    "building": "Waukee High School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-04-28 16:23:18",
+    "end": "2022-05-16 16:59:53",
+    "building": "Northwest High School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-04-26 16:28:11",
+    "end": "2022-05-16 16:59:53",
+    "building": "Waukee Middle School",
+    "cases": 2.5
+  },
+  {
     "start": "2022-05-12 17:27:57",
-    "end": "2022-05-13 17:27:12",
+    "end": "2022-05-16 16:59:53",
     "building": "Vince Meyer Learning Center",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-05-16 16:59:53",
+    "end": "2022-05-16 16:59:53",
+    "building": "Radiant Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-05-16 16:59:53",
+    "end": "2022-05-16 16:59:53",
+    "building": "Shuler Elementary",
     "cases": 2.5
   }
 ]
