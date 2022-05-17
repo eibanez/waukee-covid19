@@ -3558,5 +3558,15 @@
     "time": "2022-05-16 20:47:44",
     "type": "Total Staff",
     "cases": 2.5
+  },
+  {
+    "time": "2022-05-17 16:56:51",
+    "type": "Total Students",
+    "cases": 15
+  },
+  {
+    "time": "2022-05-17 16:56:51",
+    "type": "Total Staff",
+    "cases": 2.5
   }
 ]
