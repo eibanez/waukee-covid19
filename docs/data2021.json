@@ -2892,45 +2892,69 @@
     "cases": 2.5
   },
   {
-    "start": "2022-04-26 16:28:11",
-    "end": "2022-05-17 20:46:29",
-    "building": "Waukee Middle School",
-    "cases": 2.5
-  },
-  {
     "start": "2022-05-12 17:27:57",
-    "end": "2022-05-17 20:46:29",
+    "end": "2022-05-18 17:21:37",
     "building": "Vince Meyer Learning Center",
     "cases": 2.5
   },
   {
+    "start": "2022-04-26 16:28:11",
+    "end": "2022-05-18 17:21:37",
+    "building": "Waukee Middle School",
+    "cases": 2.5
+  },
+  {
     "start": "2022-05-16 16:59:53",
-    "end": "2022-05-17 20:46:29",
+    "end": "2022-05-18 17:21:37",
     "building": "Radiant Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-05-16 16:59:53",
-    "end": "2022-05-17 20:46:29",
+    "end": "2022-05-18 17:21:37",
     "building": "Shuler Elementary",
     "cases": 2.5
   },
   {
     "start": "2022-05-17 16:56:51",
-    "end": "2022-05-17 20:46:29",
+    "end": "2022-05-18 17:21:37",
     "building": "South Middle School",
     "cases": 2.5
   },
   {
     "start": "2022-05-17 16:56:51",
-    "end": "2022-05-17 20:46:29",
+    "end": "2022-05-18 17:21:37",
     "building": "Timberline School",
     "cases": 2.5
   },
   {
     "start": "2022-05-17 16:56:51",
-    "end": "2022-05-17 20:46:29",
+    "end": "2022-05-18 17:21:37",
     "building": "Waukee High School",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-05-18 17:21:37",
+    "end": "2022-05-18 17:21:37",
+    "building": "Grant Ragan Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-05-18 17:21:37",
+    "end": "2022-05-18 17:21:37",
+    "building": "Waukee Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-05-18 17:21:37",
+    "end": "2022-05-18 17:21:37",
+    "building": "Woodland Hills Elementary",
+    "cases": 2.5
+  },
+  {
+    "start": "2022-05-18 17:21:37",
+    "end": "2022-05-18 17:21:37",
+    "building": "Northwest High School",
     "cases": 2.5
   }
 ]
