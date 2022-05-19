@@ -32,9 +32,9 @@ or the actual number if `6` and above. Numbers between 1 and 5 are shown with a 
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.13.1"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 <script src="plots.js"></script>
 
 <script type="text/javascript">
